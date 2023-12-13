@@ -1,0 +1,71 @@
+
+.recipe-card {
+    width: 18rem; 
+  }
+  
+  .recipe-card img {
+    height: 180px; 
+    object-fit: cover; 
+  }
+ 
+  .favorite-icon {
+    color: red; 
+  }
+  
+  body {
+    background-color: #f8f9fa; 
+  }
+  
+  .btn-outline-danger {
+    border: none; 
+  }
+  
+  .btn-outline-danger:focus {
+    box-shadow: none; 
+  }
+  
+  .btn-outline-danger:hover {
+    background-color: #fee;
+  }
+
+  .header {
+    background: url('./images/header_image.jpg') no-repeat center center;
+    background-size: cover;
+    padding: 60px 0;
+  }
+
+  .search-bar {
+    max-width: 500px;
+    margin: 0 auto 20px;
+  }
+
+  .header h2 {
+    color: white;
+    margin-top: 20px;
+    font-size: 2rem;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  }
+
+  .navbar {
+    background-color: #ffffff; /* Beyaz arka plan */
+    margin-bottom: 1rem;
+    border-radius: 0.25rem;
+  }
+  
+  .navbar-brand {
+    color: #333;
+    font-weight: bold; /* Kalın font ağırlığı */
+  }
+  
+  .navbar .nav-link {
+    margin-right: 1rem; /* İkonlar arası boşluk */
+  }
+
+
+  .modal-backdrop.show {
+    opacity: 0;
+  }
+
+  .modal-backdrop {
+     --bs-backdrop-zindex: 0 !important;
+  }

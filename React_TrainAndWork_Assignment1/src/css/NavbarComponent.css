@@ -1,0 +1,14 @@
+
+.navbar-custom {
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  padding: 0.5rem 1rem; 
+}
+
+.icon-bar, .icon-user {
+  cursor: pointer;
+  margin: 0 20px; 
+}
+
+.nav-dropdown:hover .dropdown-menu {
+  display: block; 
+}

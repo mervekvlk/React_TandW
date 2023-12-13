@@ -1,0 +1,32 @@
+
+.suggested-recipe-card {
+  margin: 1rem;
+  max-width: 925px;
+  border-radius: 0.25rem;
+}
+
+.suggested-recipe-card .card-img-top {
+  height: 465px; 
+  object-fit: cover;
+}
+
+.suggested-recipe-card .badge-secondary {
+  background-color: #f0ad4e; 
+  color: #ffffff;
+}
+.suggested-recipe-card .list-group-item {
+  background-color: #ffefd5; 
+  border: none; 
+}
+
+.suggested-recipe-card .card-body {
+  background-color: #ffffff; 
+}
+
+.suggested-recipe-card .mb-2 {
+  margin-bottom: 1rem !important;
+}
+
+.suggested-recipe-card h5 {
+  margin-bottom: 0.5rem; 
+}

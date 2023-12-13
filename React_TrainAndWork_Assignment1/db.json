@@ -1,0 +1,697 @@
+{
+  "recipes": [
+        {
+          "id": 1,
+          "name": "Fırında Tavuk",
+          "category": "Ana Yemek",
+          "ingredients": ["Tavuk", "Zeytinyağı", "Baharatlar"],
+          "steps": [
+            {
+              "stepNumber": 1,
+              "description": "Tavukları yıkayın ve kurulayın."
+            },
+            {
+              "stepNumber": 2,
+              "description": "Tavukları baharatlar ve zeytinyağı ile marine edin."
+            },
+            {
+              "stepNumber": 3,
+              "description": "Fırın tepsisine tavukları yerleştirin."
+            },
+            {
+              "stepNumber": 4,
+              "description": "Önceden ısıtılmış 180°C fırında tavukları pişirin."
+            }
+          ],
+          "image": "./src/images/firindatavuk.webp",
+          "favorites": 150,
+          "tags": ["Fırın", "Pratik"],
+          "comments": [
+            {
+              "id": 101,
+              "userId": 201,
+              "text": "Harika bir tarif!"
+            },
+            {
+              "id": 102,
+              "userId": 202,
+              "text": "Bu tarifi denemeliyim."
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Fırında Balık",
+          "category": "Ana Yemek",
+          "ingredients": ["Balık", "Zeytinyağı", "Baharatlar"],
+          "steps": [
+            {
+              "stepNumber": 1,
+              "description": "Balıkları yıkayın ve kurulayın."
+            },
+            {
+              "stepNumber": 2,
+              "description": "Balıkları baharatlar ve zeytinyağı ile marine edin."
+            },
+            {
+              "stepNumber": 3,
+              "description": "Fırın tepsisine balıkları yerleştirin."
+            },
+            {
+              "stepNumber": 4,
+              "description": "Önceden ısıtılmış 180°C fırında balıkları pişirin."
+            }
+          ],
+          "image": "./src/images/firindabalik.jpg",
+          "favorites": 120,
+          "tags": ["Fırın", "Deniz Ürünleri"],
+          "comments": [
+            {
+              "id": 103,
+              "userId": 203,
+              "text": "Çok lezzetliydi!"
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Makarna Salatası",
+          "category": "Salata",
+          "ingredients": ["Makarna", "Domates", "Salatalık", "Zeytinyağı"],
+          "steps": [
+            {
+              "stepNumber": 1,
+              "description": "Makarnayı haşlayın ve soğutun."
+            },
+            {
+              "stepNumber": 2,
+              "description": "Doğranmış domates ve salatalığı ekleyin."
+            },
+            {
+              "stepNumber": 3,
+              "description": "Zeytinyağı ekleyip karıştırın."
+            },
+            {
+              "stepNumber": 4,
+              "description": "Servis yapmadan önce buzdolabında dinlendirin."
+            }
+          ],
+          "image": "./src/images/makarnasalatasi.webp",
+          "favorites": 85,
+          "tags": ["Hafif", "Makarna"],
+          "comments": [
+            {
+              "id": 104,
+              "userId": 204,
+              "text": "Mükemmel bir tarif!"
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": "Yoğurtlu Havuç Salatası",
+          "category": "Salata",
+          "ingredients": ["Havuç", "Yoğurt", "Maydanoz", "Zeytinyağı"],
+          "steps": [
+            {
+              "stepNumber": 1,
+              "description": "Havuçları rendeleyin."
+            },
+            {
+              "stepNumber": 2,
+              "description": "Yoğurdu ekleyin ve karıştırın."
+            },
+            {
+              "stepNumber": 3,
+              "description": "Doğranmış maydanozu ekleyin."
+            },
+            {
+              "stepNumber": 4,
+              "description": "Zeytinyağı ile servis yapın."
+            }
+          ],
+          "image": "./src/images/yogurtluhavucsalatasi.jpg",
+          "favorites": 95,
+          "tags": ["Hafif", "Yoğurtlu"]
+        },
+        {
+          "id": 5,
+          "name": "Fırında Karnabahar",
+          "category": "Sebze Yemeği",
+          "ingredients": ["Karnabahar", "Sarımsak", "Zeytinyağı", "Baharatlar"],
+          "steps": [
+            {
+              "stepNumber": 1,
+              "description": "Karnabaharı çiçeklere ayırın."
+            },
+            {
+              "stepNumber": 2,
+              "description": "Sarımsak, zeytinyağı ve baharatlarla karıştırın."
+            },
+            {
+              "stepNumber": 3,
+              "description": "Fırında kızarana kadar pişirin."
+            },
+            {
+              "stepNumber": 4,
+              "description": "Sıcak servis yapın."
+            }
+          ],
+          "image": "./src/images/firindakarnabahar.jpg",
+          "favorites": 80,
+          "tags": ["Fırın", "Sebze"]
+        },
+        {
+          "id": 6,
+          "name": "Kısır",
+          "category": "Meze",
+          "ingredients": ["Bulgur", "Domates", "Nar Ekşisi", "Salatalık"],
+          "steps": [
+            {
+              "stepNumber": 1,
+              "description": "Bulguru sıcak suyla haşlayın."
+            },
+            {
+              "stepNumber": 2,
+              "description": "Doğranmış domates ve salatalığı ekleyin."
+            },
+            {
+              "stepNumber": 3,
+              "description": "Nar ekşisi ve baharatlar ekleyip karıştırın."
+            },
+            {
+              "stepNumber": 4,
+              "description": "Buzdolabında dinlendirip servis yapın."
+            }
+          ],
+          "image": "./src/images/kisir.jpg",
+          "favorites": 75,
+          "tags": ["Meze", "Bulgur"]
+        },
+        {
+          "id": 7,
+          "name": "Izgara Köfte",
+          "category": "Ana Yemek",
+          "ingredients": ["Kıyma", "Soğan", "Baharatlar", "Marul"],
+          "steps": [
+            {
+              "stepNumber": 1,
+              "description": "Kıyma, rendelenmiş soğan ve baharatlarla karıştırın."
+            },
+            {
+              "stepNumber": 2,
+              "description": "Köfte şekli verip ızgarada pişirin."
+            },
+            {
+              "stepNumber": 3,
+              "description": "Marul ile servis yapın."
+            },
+            {
+              "stepNumber": 4,
+              "description": "Yanında yoğurt sos ile servis edebilirsiniz."
+            }
+          ],
+          "image": "./src/images/izgarakofte.jpg",
+          "favorites": 88,
+          "tags": ["Izgara", "Köfte"]
+        },
+        {
+          "id": 8,
+          "name": "Çikolatalı Muffin",
+          "category": "Tatlı",
+          "ingredients": ["Un", "Yumurta", "Çikolata", "Şeker"],
+          "steps": [
+            {
+              "stepNumber": 1,
+              "description": "Un, yumurta ve şekeri karıştırın."
+            },
+            {
+              "stepNumber": 2,
+              "description": "Çikolatayı ekleyip karıştırın."
+            },
+            {
+              "stepNumber": 3,
+              "description": "Muffin kalıplarına paylaştırın."
+            },
+            {
+              "stepNumber": 4,
+              "description": "180°C fırında pişirin ve servis yapın."
+            }
+          ],
+          "image": "./src/images/cikolatalimuffin.jpg",
+          "favorites": 92,
+          "tags": ["Tatlı", "Çikolatalı"]
+        },
+          {
+            "id": 9,
+            "name": "Fırın Mantar Sote",
+            "category": "Ara Sıcak",
+            "ingredients": ["Mantar", "Sarımsak", "Tereyağı", "Maydanoz"],
+            "steps": [
+              {
+                "stepNumber": 1,
+                "description": "Mantarları temizleyin ve dilimleyin."
+              },
+              {
+                "stepNumber": 2,
+                "description": "Sarımsakları doğrayın ve tereyağında soteleyin."
+              },
+              {
+                "stepNumber": 3,
+                "description": "Mantarları ekleyin ve pişirin."
+              },
+              {
+                "stepNumber": 4,
+                "description": "Maydanoz ile süsleyip sıcak servis yapın."
+              }
+            ],
+            "image": "./src/images/firinmantarsote.png",
+            "favorites": 78,
+            "tags": ["Ara Sıcak", "Mantar"]
+          },
+          {
+            "id": 10,
+            "name": "Tavuklu Noodle",
+            "category": "Ana Yemek",
+            "ingredients": ["Tavuk", "Noodle", "Soğan", "Sebzeler"],
+            "steps": [
+              {
+                "stepNumber": 1,
+                "description": "Tavukları doğrayın ve kızartın."
+              },
+              {
+                "stepNumber": 2,
+                "description": "Soğanları doğrayın ve tavukla birlikte soteleyin."
+              },
+              {
+                "stepNumber": 3,
+                "description": "Sebzeleri ekleyin ve noodle ile karıştırın."
+              },
+              {
+                "stepNumber": 4,
+                "description": "Sıcak servis yapın."
+              }
+            ],
+            "image": "./src/images/tavuklunoodle.jpg",
+            "favorites": 85,
+            "tags": ["Noodle", "Tavuk"]
+          },
+          {
+            "id": 11,
+            "name": "Cevizli Kabak Salatası",
+            "category": "Salata",
+            "ingredients": ["Kabak", "Ceviz", "Limon", "Zeytinyağı"],
+            "steps": [
+              {
+                "stepNumber": 1,
+                "description": "Kabakları ince dilimleyin."
+              },
+              {
+                "stepNumber": 2,
+                "description": "Cevizleri ekleyin ve limon suyu ile karıştırın."
+              },
+              {
+                "stepNumber": 3,
+                "description": "Zeytinyağı ile soslayın."
+              },
+              {
+                "stepNumber": 4,
+                "description": "Taze nane ile süsleyip servis yapın."
+              }
+            ],
+            "image": "./src/images/cevizlikabaksalatasi.jpg",
+            "favorites": 70,
+            "tags": ["Hafif", "Kabak"]
+          },
+          {
+            "id": 12,
+            "name": "Fırında Kaşarlı Köfte",
+            "category": "Ara Sıcak",
+            "ingredients": ["Köfte", "Kaşar Peyniri", "Domates Sosu", "Baharatlar"],
+            "steps": [
+              {
+                "stepNumber": 1,
+                "description": "Köfteleri hazırlayın ve fırın tepsisine yerleştirin."
+              },
+              {
+                "stepNumber": 2,
+                "description": "Üzerine domates sosu ve rendelenmiş kaşar peyniri ekleyin."
+              },
+              {
+                "stepNumber": 3,
+                "description": "180°C fırında kızarana kadar pişirin."
+              },
+              {
+                "stepNumber": 4,
+                "description": "Sıcak servis yapın."
+              }
+            ],
+            "image": "./src/images/firindakasarlikofte.webp",
+            "favorites": 92,
+            "tags": ["Ara Sıcak", "Kaşarlı"]
+          },
+          {
+            "id": 13,
+            "name": "Çikolatalı Parfe",
+            "category": "Tatlı",
+            "ingredients": ["Çikolata", "Krema", "Meyve", "Bisküvi"],
+            "steps": [
+              {
+                "stepNumber": 1,
+                "description": "Çikolatayı eritin ve kremayla karıştırın."
+              },
+              {
+                "stepNumber": 2,
+                "description": "Bisküvileri parçalayın."
+              },
+              {
+                "stepNumber": 3,
+                "description": "Meyveleri doğrayın."
+              },
+              {
+                "stepNumber": 4,
+                "description": "Kat kat bisküvi, çikolata karışımı ve meyve ile parfe yapın."
+              }
+            ],
+            "image": "./src/images/cikolataliparfe.jpg",
+            "favorites": 88,
+            "tags": ["Tatlı", "Parfe"]
+          },
+          {
+              "id": 14,
+              "name": "Ispanaklı Kısır",
+              "category": "Meze",
+              "ingredients": ["Bulgur", "Ispanak", "Domates", "Limon"],
+              "steps": [
+                {
+                  "stepNumber": 1,
+                  "description": "Bulguru sıcak suyla haşlayın."
+                },
+                {
+                  "stepNumber": 2,
+                  "description": "Ispanakları doğrayın ve karışıma ekleyin."
+                },
+                {
+                  "stepNumber": 3,
+                  "description": "Doğranmış domates ve limon suyu ekleyin."
+                },
+                {
+                  "stepNumber": 4,
+                  "description": "Karışımı buzdolabında dinlendirip servis yapın."
+                }
+              ],
+              "image": "./src/images/ispanaklikisir.jpg",
+              "favorites": 80,
+              "tags": ["Meze", "Ispanak"]
+            },
+            {
+              "id": 15,
+              "name": "Fırın Patates Wedges",
+              "category": "Ara Sıcak",
+              "ingredients": ["Patates", "Zeytinyağı", "Baharatlar", "Yoğurt Sosu"],
+              "steps": [
+                {
+                  "stepNumber": 1,
+                  "description": "Patatesleri dilimleyin ve baharatlarla karıştırın."
+                },
+                {
+                  "stepNumber": 2,
+                  "description": "Zeytinyağı ekleyip fırın tepsisine yerleştirin."
+                },
+                {
+                  "stepNumber": 3,
+                  "description": "180°C fırında kızarana kadar pişirin."
+                },
+                {
+                  "stepNumber": 4,
+                  "description": "Yoğurt sosu ile servis yapın."
+                }
+              ],
+              "image": "./src/images/firinpatateswedges.jpg",
+              "favorites": 75,
+              "tags": ["Ara Sıcak", "Patates"]
+            },
+            {
+              "id": 16,
+              "name": "Fırın Sütlaç",
+              "category": "Tatlı",
+              "ingredients": ["Süt", "Pirinç", "Şeker", "Tarçın"],
+              "steps": [
+                {
+                  "stepNumber": 1,
+                  "description": "Pirinci süt ile haşlayın."
+                },
+                {
+                  "stepNumber": 2,
+                  "description": "Şeker ekleyip karıştırın."
+                },
+                {
+                  "stepNumber": 3,
+                  "description": "Fırın kabına alıp üzerine tarçın serpin."
+                },
+                {
+                  "stepNumber": 4,
+                  "description": "180°C fırında üzeri kızarana kadar pişirin."
+                }
+              ],
+              "image": "./src/images/firinsütlac.png",
+              "favorites": 90,
+              "tags": ["Tatlı", "Sütlaç"]
+            },
+            {
+              "id": 17,
+              "name": "Izgara Sebze Tost",
+              "category": "Ara Sıcak",
+              "ingredients": ["Biber", "Patlıcan", "Domates", "Tost Ekmeği"],
+              "steps": [
+                {
+                  "stepNumber": 1,
+                  "description": "Sebzeleri dilimleyin ve ızgarada pişirin."
+                },
+                {
+                  "stepNumber": 2,
+                  "description": "Tost ekmeğini ısıtın."
+                },
+                {
+                  "stepNumber": 3,
+                  "description": "Izgara sebzeleri tost ekmeğinin üzerine koyun."
+                },
+                {
+                  "stepNumber": 4,
+                  "description": "Afiyetle yiyin!"
+                }
+              ],
+              "image": "./src/images/izgarasebzetost.jpg",
+              "favorites": 82,
+              "tags": ["Ara Sıcak", "Izgara"]
+            },
+            {
+              "id": 18,
+              "name": "Meyveli Krep",
+              "category": "Kahvaltı",
+              "ingredients": ["Un", "Süt", "Meyve", "Bal"],
+              "steps": [
+                {
+                  "stepNumber": 1,
+                  "description": "Krep hamurunu hazırlayın."
+                },
+                {
+                  "stepNumber": 2,
+                  "description": "Tavada pişirin."
+                },
+                {
+                  "stepNumber": 3,
+                  "description": "Meyve ve bal ile servis yapın."
+                },
+                {
+                  "stepNumber": 4,
+                  "description": "Afiyet olsun!"
+                }
+              ],
+              "image": "./src/images/meyvelikrep.jpg",
+              "favorites": 88,
+              "tags": ["Kahvaltı", "Krep"]
+            },
+            {
+              "id": 24,
+              "name": "Fırında Kaşarlı Karnabahar",
+              "category": "Sebze Yemeği",
+              "ingredients": ["Karnabahar", "Kaşar Peyniri", "Süt", "Un"],
+              "steps": [
+                {
+                  "stepNumber": 1,
+                  "description": "Karnabaharı haşlayın ve fırın kabına yerleştirin."
+                },
+                {
+                  "stepNumber": 2,
+                  "description": "Üzerine rendelenmiş kaşar peyniri serpin."
+                },
+                {
+                  "stepNumber": 3,
+                  "description": "Süt ve un karışımını ekleyin."
+                },
+                {
+                  "stepNumber": 4,
+                  "description": "180°C fırında kızarana kadar pişirin."
+                }
+              ],
+              "image": "./src/images/firindakasarlikarnabahar.webp",
+              "favorites": 68,
+              "tags": ["Sebze Yemeği", "Kaşarlı"]
+            },
+            {
+              "id": 25,
+              "name": "Kırmızı Mercimek Köftesi",
+              "category": "Meze",
+              "ingredients": ["Kırmızı Mercimek", "Bulgur", "Soğan", "Salça"],
+              "steps": [
+                {
+                  "stepNumber": 1,
+                  "description": "Kırmızı mercimeği haşlayın ve süzün."
+                },
+                {
+                  "stepNumber": 2,
+                  "description": "Bulgur, rendelenmiş soğan, salça ve baharatlarla karıştırın."
+                },
+                {
+                  "stepNumber": 3,
+                  "description": "Köfte şekli verin ve servis yapın."
+                },
+                {
+                  "stepNumber": 4,
+                  "description": "Limon dilimleri ile süsleyebilirsiniz."
+                }
+              ],
+              "image": "./src/images/kirmizimercimekköftesi.jpg",
+              "favorites": 72,
+              "tags": ["Meze", "Kırmızı Mercimek"]
+            },
+            {
+              "id": 26,
+              "name": "Fırın Levrek",
+              "category": "Deniz Ürünleri",
+              "ingredients": ["Levrek Balığı", "Zeytinyağı", "Limon", "Tuz"],
+              "steps": [
+                {
+                  "stepNumber": 1,
+                  "description": "Levrek balıklarını temizleyin ve fırın kabına yerleştirin."
+                },
+                {
+                  "stepNumber": 2,
+                  "description": "Zeytinyağı, tuz ve dilimlenmiş limon ile marine edin."
+                },
+                {
+                  "stepNumber": 3,
+                  "description": "180°C fırında pişirin."
+                },
+                {
+                  "stepNumber": 4,
+                  "description": "Sıcak servis yapın."
+                }
+              ],
+              "image": "./src/images/firinlevrek.jpg",
+              "favorites": 85,
+              "tags": ["Deniz Ürünleri", "Fırın"]
+            },
+            {
+              "id": 27,
+              "name": "Kabak Mücver",
+              "category": "Sebze Yemeği",
+              "ingredients": ["Kabak", "Yumurta", "Un", "Maydanoz"],
+              "steps": [
+                {
+                  "stepNumber": 1,
+                  "description": "Kabakları rendeleyin ve suyunu sıkın."
+                },
+                {
+                  "stepNumber": 2,
+                  "description": "Rendelenmiş kabakları, yumurtayı, unu ve doğranmış maydanozu karıştırın."
+                },
+                {
+                  "stepNumber": 3,
+                  "description": "Kızgın yağda kızartın."
+                },
+                {
+                  "stepNumber": 4,
+                  "description": "Kağıt havlu üzerine alıp fazla yağını süzün."
+                }
+              ],
+              "image": "./src/images/kabakmucver.jpg",
+              "favorites": 78,
+              "tags": ["Sebze Yemeği", "Mücver"]
+            },
+            {
+              "id": 28,
+              "name": "Meyveli Yoğurt Parfe",
+              "category": "Tatlı",
+              "ingredients": ["Yoğurt", "Meyve Püresi", "Bal", "Granola"],
+              "steps": [
+                {
+                  "stepNumber": 1,
+                  "description": "Yoğurdu ve meyve püresini karıştırın."
+                },
+                {
+                  "stepNumber": 2,
+                  "description": "Bir kaba sırayla yoğurt karışımı, bal ve granolayı ekleyin."
+                },
+                {
+                  "stepNumber": 3,
+                  "description": "Dondurucuda donana kadar bekletin."
+                },
+                {
+                  "stepNumber": 4,
+                  "description": "Dilimleyip servis yapın."
+                }
+              ],
+              "image": "./src/images/meyveliyogurtparfe.jpg",
+              "favorites": 92,
+              "tags": ["Tatlı", "Parfe"]
+            }
+        
+      ],
+      "categories": ["Ana Yemek", "Çorba", "Tatlı", "Kahvaltı", "Salata", "Hamur İşleri", "İçecek"],
+      "ingredients": ["Tavuk", "Zeytinyağı", "Baharatlar", "Kırmızı mercimek", "Soğan", "Havuç", "Yufka", "Ispanak", "Peynir", "Meyveler", "Yoğurt", "Bal"],
+      "tags": ["Fırın", "Pratik", "Vejetaryen", "Sağlıklı", "Kahvaltı", "Aperatif", "Sebzeli", "İçecek"],
+      "users": [
+        {
+          "id": 201,
+          "username": "merve",
+          "favorites": [1],
+          "comments": [101],
+          "password":[1234]
+        },
+        {
+          "id": 202,
+          "username": "süheyle",
+          "favorites": [2],
+          "comments": [102],
+          "password":[1234]
+        }
+      ],
+      "suggestedRecipes": [
+        {
+          "id": 3,
+          "name": "Ispanaklı Börek",
+          "category": "Hamur İşleri",
+          "ingredients": ["Yufka", "Ispanak", "Peynir"],
+          "steps": [
+            {
+              "stepNumber": 1,
+              "description": "Yufkaları arasına ıspanak ve peyniri koyun."
+            },
+            {
+              "stepNumber": 2,
+              "description": "Rulo şeklinde sarın ve fırına verin."
+            },
+            {
+              "stepNumber": 3,
+              "description": "Önceden ısıtılmış 200°C fırında böreği pişirin."
+            }
+          ],
+          "image": "./src/images/ispanaklibörek.jpg",
+          "favorites": 80,
+          "tags": ["Kahvaltı", "Aperatif"]
+        }
+      ]
+    }
+  
