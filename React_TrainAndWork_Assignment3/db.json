@@ -1,0 +1,4678 @@
+{
+    "products": [
+        {
+            "category": "BAGS",
+            "subcategory": "Blazers",
+            "name": "Blazers Black",
+            "description": "A detailed description of Blazers in Black.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": false,
+                "equipment": false,
+                "jewellery": false
+            },
+            "colors": [
+                {
+                    "name": "Black",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "/src/assets/img/product/g1.jpg",
+                "src/assets/img/product/b2.jpg",
+                "src/assets/img/product/k1.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 1,
+            "slug": "blazers-black",
+            "category_id": 2,
+            "subcategory_id": 6
+        },
+        {
+            "category": "BAGS",
+            "subcategory": "Blazers",
+            "name": "Blazers Blue",
+            "description": "A detailed description of Blazers in Blue.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": true,
+                "equipment": true,
+                "jewellery": false
+            },
+            "colors": [
+                {
+                    "name": "Blue",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "/src/assets/img/product/c1.jpg",
+                "src/assets/img/product/b2.jpg",
+                "src/assets/img/product/m1.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 2,
+            "slug": "blazers-blue",
+            "category_id": 2,
+            "subcategory_id": 6
+        },
+        {
+            "category": "BAGS",
+            "subcategory": "Blazers",
+            "name": "Blazers Brown",
+            "description": "A detailed description of Blazers in Brown.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": true,
+                "equipment": true,
+                "jewellery": false
+            },
+            "colors": [
+                {
+                    "name": "Brown",
+                    "count": 3
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/c2.jpg",
+                "src/assets/img/product/g1.jpg",
+                "src/assets/img/product/g2.jpg"
+            ],
+            "price": "130.00",
+            "brand": "BrandName",
+            "id": 3,
+            "slug": "blazers-brown",
+            "category_id": 2,
+            "subcategory_id": 6
+        },
+        {
+            "category": "BAGS",
+            "subcategory": "Blazers",
+            "name": "Blazers Green",
+            "description": "A detailed description of Blazers in Green.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": true,
+                "equipment": false,
+                "jewellery": false
+            },
+            "colors": [
+                {
+                    "name": "Green",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/h2.jpg",
+                "src/assets/img/product/g1.jpg",
+                "src/assets/img/product/e2.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 4,
+            "slug": "blazers-green",
+            "category_id": 2,
+            "subcategory_id": 6
+        },
+        {
+            "category": "BAGS",
+            "subcategory": "Blazers",
+            "name": "Blazers Orange",
+            "description": "A detailed description of Blazers in Orange.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": false,
+                "equipment": true,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Orange",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/c2.jpg",
+                "src/assets/img/product/z-in5.jpg",
+                "src/assets/img/product/z-in2.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 5,
+            "slug": "blazers-orange",
+            "category_id": 2,
+            "subcategory_id": 6
+        },
+        {
+            "category": "BAGS",
+            "subcategory": "Blazers",
+            "name": "Blazers Pink",
+            "description": "A detailed description of Blazers in Pink.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": false,
+                "equipment": false,
+                "jewellery": false
+            },
+            "colors": [
+                {
+                    "name": "Pink",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/h1.jpg",
+                "src/assets/img/product/k2.jpg",
+                "src/assets/img/product/z-in1.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 6,
+            "slug": "blazers-pink",
+            "category_id": 2,
+            "subcategory_id": 6
+        },
+        {
+            "category": "BAGS",
+            "subcategory": "Blazers",
+            "name": "Blazers Red",
+            "description": "A detailed description of Blazers in Red.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": true,
+                "equipment": false,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Red",
+                    "count": 6
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/z-in4.jpg",
+                "src/assets/img/product/c1.jpg",
+                "src/assets/img/product/z-in2.jpg"
+            ],
+            "price": "160.00",
+            "brand": "BrandName",
+            "id": 7,
+            "slug": "blazers-red",
+            "category_id": 2,
+            "subcategory_id": 6
+        },
+        {
+            "category": "BAGS",
+            "subcategory": "Blazers",
+            "name": "Blazers Yellow",
+            "description": "A detailed description of Blazers in Yellow.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": true,
+                "equipment": false,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Yellow",
+                    "count": 3
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/m2.jpg",
+                "src/assets/img/product/f1.jpg",
+                "src/assets/img/product/g2.jpg"
+            ],
+            "price": "130.00",
+            "brand": "BrandName",
+            "id": 8,
+            "slug": "blazers-yellow",
+            "category_id": 2,
+            "subcategory_id": 6
+        },
+        {
+            "category": "BAGS",
+            "subcategory": "Booties Bags",
+            "name": "Booties Bags Black",
+            "description": "A detailed description of Booties Bags in Black.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": false,
+                "equipment": false,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Black",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/j1.jpg",
+                "src/assets/img/product/c2.jpg",
+                "src/assets/img/product/z-in1.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 9,
+            "slug": "booties-bags-black",
+            "category_id": 2,
+            "subcategory_id": 10
+        },
+        {
+            "category": "BAGS",
+            "subcategory": "Booties Bags",
+            "name": "Booties Bags Blue",
+            "description": "A detailed description of Booties Bags in Blue.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": true,
+                "equipment": false,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Blue",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/g1.jpg",
+                "src/assets/img/product/h1.jpg",
+                "src/assets/img/product/j1.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 10,
+            "slug": "booties-bags-blue",
+            "category_id": 2,
+            "subcategory_id": 10
+        },
+        {
+            "category": "BAGS",
+            "subcategory": "Booties Bags",
+            "name": "Booties Bags Brown",
+            "description": "A detailed description of Booties Bags in Brown.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": true,
+                "equipment": false,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Brown",
+                    "count": 3
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/l1.jpg",
+                "src/assets/img/product/c1.jpg",
+                "src/assets/img/product/d2.jpg"
+            ],
+            "price": "130.00",
+            "brand": "BrandName",
+            "id": 11,
+            "slug": "booties-bags-brown",
+            "category_id": 2,
+            "subcategory_id": 10
+        },
+        {
+            "category": "BAGS",
+            "subcategory": "Booties Bags",
+            "name": "Booties Bags Green",
+            "description": "A detailed description of Booties Bags in Green.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": false,
+                "equipment": false,
+                "jewellery": false
+            },
+            "colors": [
+                {
+                    "name": "Green",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/e1.jpg",
+                "src/assets/img/product/i2.jpg",
+                "src/assets/img/product/m2.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 12,
+            "slug": "booties-bags-green",
+            "category_id": 2,
+            "subcategory_id": 10
+        },
+        {
+            "category": "BAGS",
+            "subcategory": "Booties Bags",
+            "name": "Booties Bags Orange",
+            "description": "A detailed description of Booties Bags in Orange.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": true,
+                "equipment": false,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Orange",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/c1.jpg",
+                "src/assets/img/product/j1.jpg",
+                "src/assets/img/product/d2.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 13,
+            "slug": "booties-bags-orange",
+            "category_id": 2,
+            "subcategory_id": 10
+        },
+        {
+            "category": "BAGS",
+            "subcategory": "Booties Bags",
+            "name": "Booties Bags Pink",
+            "description": "A detailed description of Booties Bags in Pink.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": false,
+                "equipment": true,
+                "jewellery": false
+            },
+            "colors": [
+                {
+                    "name": "Pink",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/e2.jpg",
+                "src/assets/img/product/b2.jpg",
+                "src/assets/img/product/a2.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 14,
+            "slug": "booties-bags-pink",
+            "category_id": 2,
+            "subcategory_id": 10
+        },
+        {
+            "category": "BAGS",
+            "subcategory": "Booties Bags",
+            "name": "Booties Bags Red",
+            "description": "A detailed description of Booties Bags in Red.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": false,
+                "equipment": false,
+                "jewellery": false
+            },
+            "colors": [
+                {
+                    "name": "Red",
+                    "count": 6
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/z-in1.jpg",
+                "src/assets/img/product/a2.jpg",
+                "src/assets/img/product/f2.jpg"
+            ],
+            "price": "160.00",
+            "brand": "BrandName",
+            "id": 15,
+            "slug": "booties-bags-red",
+            "category_id": 2,
+            "subcategory_id": 10
+        },
+        {
+            "category": "BAGS",
+            "subcategory": "Booties Bags",
+            "name": "Booties Bags Yellow",
+            "description": "A detailed description of Booties Bags in Yellow.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": true,
+                "equipment": true,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Yellow",
+                    "count": 3
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/z-in2.jpg",
+                "src/assets/img/product/z-in1.jpg",
+                "src/assets/img/product/a2.jpg"
+            ],
+            "price": "130.00",
+            "brand": "BrandName",
+            "id": 16,
+            "slug": "booties-bags-yellow",
+            "category_id": 2,
+            "subcategory_id": 10
+        },
+        {
+            "category": "BAGS",
+            "subcategory": "Jackets",
+            "name": "Jackets Black",
+            "description": "A detailed description of Jackets in Black.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": false,
+                "equipment": false,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Black",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/z-in1.jpg",
+                "src/assets/img/product/c2.jpg",
+                "src/assets/img/product/h1.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 17,
+            "slug": "jackets-black",
+            "category_id": 2,
+            "subcategory_id": 1
+        },
+        {
+            "category": "BAGS",
+            "subcategory": "Jackets",
+            "name": "Jackets Blue",
+            "description": "A detailed description of Jackets in Blue.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": true,
+                "equipment": true,
+                "jewellery": false
+            },
+            "colors": [
+                {
+                    "name": "Blue",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/a1.jpg",
+                "src/assets/img/product/z-in4.jpg",
+                "src/assets/img/product/d1.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 18,
+            "slug": "jackets-blue",
+            "category_id": 2,
+            "subcategory_id": 1
+        },
+        {
+            "category": "BAGS",
+            "subcategory": "Jackets",
+            "name": "Jackets Brown",
+            "description": "A detailed description of Jackets in Brown.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": true,
+                "equipment": false,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Brown",
+                    "count": 3
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/g2.jpg",
+                "src/assets/img/product/l2.jpg",
+                "src/assets/img/product/h2.jpg"
+            ],
+            "price": "130.00",
+            "brand": "BrandName",
+            "id": 19,
+            "slug": "jackets-brown",
+            "category_id": 2,
+            "subcategory_id": 1
+        },
+        {
+            "category": "BAGS",
+            "subcategory": "Jackets",
+            "name": "Jackets Green",
+            "description": "A detailed description of Jackets in Green.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": false,
+                "equipment": true,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Green",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/z-in5.jpg",
+                "src/assets/img/product/l1.jpg",
+                "src/assets/img/product/k2.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 20,
+            "slug": "jackets-green",
+            "category_id": 2,
+            "subcategory_id": 1
+        },
+        {
+            "category": "BAGS",
+            "subcategory": "Jackets",
+            "name": "Jackets Orange",
+            "description": "A detailed description of Jackets in Orange.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": true,
+                "equipment": true,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Orange",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/a1.jpg",
+                "src/assets/img/product/z-in4.jpg",
+                "src/assets/img/product/cart-2.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 21,
+            "slug": "jackets-orange",
+            "category_id": 2,
+            "subcategory_id": 1
+        },
+        {
+            "category": "BAGS",
+            "subcategory": "Jackets",
+            "name": "Jackets Pink",
+            "description": "A detailed description of Jackets in Pink.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": false,
+                "equipment": true,
+                "jewellery": false
+            },
+            "colors": [
+                {
+                    "name": "Pink",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/e1.jpg",
+                "src/assets/img/product/i1.jpg",
+                "src/assets/img/product/k2.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 22,
+            "slug": "jackets-pink",
+            "category_id": 2,
+            "subcategory_id": 1
+        },
+        {
+            "category": "BAGS",
+            "subcategory": "Jackets",
+            "name": "Jackets Red",
+            "description": "A detailed description of Jackets in Red.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": false,
+                "equipment": true,
+                "jewellery": false
+            },
+            "colors": [
+                {
+                    "name": "Red",
+                    "count": 6
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/c2.jpg",
+                "src/assets/img/product/g2.jpg",
+                "src/assets/img/product/m2.jpg"
+            ],
+            "price": "160.00",
+            "brand": "BrandName",
+            "id": 23,
+            "slug": "jackets-red",
+            "category_id": 2,
+            "subcategory_id": 1
+        },
+        {
+            "category": "BAGS",
+            "subcategory": "Jackets",
+            "name": "Jackets Yellow",
+            "description": "A detailed description of Jackets in Yellow.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": true,
+                "equipment": true,
+                "jewellery": false
+            },
+            "colors": [
+                {
+                    "name": "Yellow",
+                    "count": 3
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/z-in3.jpg",
+                "src/assets/img/product/c1.jpg",
+                "src/assets/img/product/l2.jpg"
+            ],
+            "price": "130.00",
+            "brand": "BrandName",
+            "id": 24,
+            "slug": "jackets-yellow",
+            "category_id": 2,
+            "subcategory_id": 1
+        },
+        {
+            "category": "BAGS",
+            "subcategory": "Shoes",
+            "name": "Shoes Black",
+            "description": "A detailed description of Shoes in Black.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": false,
+                "equipment": true,
+                "jewellery": false
+            },
+            "colors": [
+                {
+                    "name": "Black",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/i1.jpg",
+                "src/assets/img/product/d1.jpg",
+                "src/assets/img/product/c1.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 25,
+            "slug": "shoes-black",
+            "category_id": 2,
+            "subcategory_id": 15
+        },
+        {
+            "category": "BAGS",
+            "subcategory": "Shoes",
+            "name": "Shoes Blue",
+            "description": "A detailed description of Shoes in Blue.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": false,
+                "equipment": true,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Blue",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/g1.jpg",
+                "src/assets/img/product/b2.jpg",
+                "src/assets/img/product/z-in5.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 26,
+            "slug": "shoes-blue",
+            "category_id": 2,
+            "subcategory_id": 15
+        },
+        {
+            "category": "BAGS",
+            "subcategory": "Shoes",
+            "name": "Shoes Brown",
+            "description": "A detailed description of Shoes in Brown.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": true,
+                "equipment": false,
+                "jewellery": false
+            },
+            "colors": [
+                {
+                    "name": "Brown",
+                    "count": 3
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/j1.jpg",
+                "src/assets/img/product/b1.jpg",
+                "src/assets/img/product/d1.jpg"
+            ],
+            "price": "130.00",
+            "brand": "BrandName",
+            "id": 27,
+            "slug": "shoes-brown",
+            "category_id": 2,
+            "subcategory_id": 15
+        },
+        {
+            "category": "BAGS",
+            "subcategory": "Shoes",
+            "name": "Shoes Green",
+            "description": "A detailed description of Shoes in Green.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": true,
+                "equipment": true,
+                "jewellery": false
+            },
+            "colors": [
+                {
+                    "name": "Green",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/z-in5.jpg",
+                "src/assets/img/product/cart-1.jpg",
+                "src/assets/img/product/b2.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 28,
+            "slug": "shoes-green",
+            "category_id": 2,
+            "subcategory_id": 15
+        },
+        {
+            "category": "BAGS",
+            "subcategory": "Shoes",
+            "name": "Shoes Orange",
+            "description": "A detailed description of Shoes in Orange.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": false,
+                "equipment": true,
+                "jewellery": false
+            },
+            "colors": [
+                {
+                    "name": "Orange",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/a2.jpg",
+                "src/assets/img/product/e2.jpg",
+                "src/assets/img/product/l2.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 29,
+            "slug": "shoes-orange",
+            "category_id": 2,
+            "subcategory_id": 15
+        },
+        {
+            "category": "BAGS",
+            "subcategory": "Shoes",
+            "name": "Shoes Pink",
+            "description": "A detailed description of Shoes in Pink.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": true,
+                "equipment": true,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Pink",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/a2.jpg",
+                "src/assets/img/product/d1.jpg",
+                "src/assets/img/product/l2.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 30,
+            "slug": "shoes-pink",
+            "category_id": 2,
+            "subcategory_id": 15
+        },
+        {
+            "category": "BAGS",
+            "subcategory": "Shoes",
+            "name": "Shoes Red",
+            "description": "A detailed description of Shoes in Red.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": false,
+                "equipment": false,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Red",
+                    "count": 6
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/z-in2.jpg",
+                "src/assets/img/product/b1.jpg",
+                "src/assets/img/product/z-in1.jpg"
+            ],
+            "price": "160.00",
+            "brand": "BrandName",
+            "id": 31,
+            "slug": "shoes-red",
+            "category_id": 2,
+            "subcategory_id": 15
+        },
+        {
+            "category": "BAGS",
+            "subcategory": "Shoes",
+            "name": "Shoes Yellow",
+            "description": "A detailed description of Shoes in Yellow.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": true,
+                "equipment": false,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Yellow",
+                    "count": 3
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/z-in5.jpg",
+                "src/assets/img/product/d1.jpg",
+                "src/assets/img/product/k1.jpg"
+            ],
+            "price": "130.00",
+            "brand": "BrandName",
+            "id": 32,
+            "slug": "shoes-yellow",
+            "category_id": 2,
+            "subcategory_id": 15
+        },
+        {
+            "category": "CLOTHING",
+            "subcategory": "Blazers",
+            "name": "Blazers Black",
+            "description": "A detailed description of Blazers in Black.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": true,
+                "equipment": true,
+                "jewellery": false
+            },
+            "colors": [
+                {
+                    "name": "Black",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/cart-2.jpg",
+                "src/assets/img/product/cart-1.jpg",
+                "src/assets/img/product/z-in4.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 33,
+            "slug": "blazers-black",
+            "category_id": 3,
+            "subcategory_id": 6
+        },
+        {
+            "category": "CLOTHING",
+            "subcategory": "Blazers",
+            "name": "Blazers Blue",
+            "description": "A detailed description of Blazers in Blue.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": false,
+                "equipment": false,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Blue",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/m1.jpg",
+                "src/assets/img/product/f2.jpg",
+                "src/assets/img/product/c1.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 34,
+            "slug": "blazers-blue",
+            "category_id": 3,
+            "subcategory_id": 6
+        },
+        {
+            "category": "CLOTHING",
+            "subcategory": "Blazers",
+            "name": "Blazers Brown",
+            "description": "A detailed description of Blazers in Brown.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": true,
+                "equipment": false,
+                "jewellery": false
+            },
+            "colors": [
+                {
+                    "name": "Brown",
+                    "count": 3
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/h1.jpg",
+                "src/assets/img/product/a1.jpg",
+                "src/assets/img/product/z-in2.jpg"
+            ],
+            "price": "130.00",
+            "brand": "BrandName",
+            "id": 35,
+            "slug": "blazers-brown",
+            "category_id": 3,
+            "subcategory_id": 6
+        },
+        {
+            "category": "CLOTHING",
+            "subcategory": "Blazers",
+            "name": "Blazers Green",
+            "description": "A detailed description of Blazers in Green.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": true,
+                "equipment": false,
+                "jewellery": false
+            },
+            "colors": [
+                {
+                    "name": "Green",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/z-in4.jpg",
+                "src/assets/img/product/d2.jpg",
+                "src/assets/img/product/j2.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 36,
+            "slug": "blazers-green",
+            "category_id": 3,
+            "subcategory_id": 6
+        },
+        {
+            "category": "CLOTHING",
+            "subcategory": "Blazers",
+            "name": "Blazers Orange",
+            "description": "A detailed description of Blazers in Orange.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": false,
+                "equipment": false,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Orange",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/cart-2.jpg",
+                "src/assets/img/product/b1.jpg",
+                "src/assets/img/product/a1.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 37,
+            "slug": "blazers-orange",
+            "category_id": 3,
+            "subcategory_id": 6
+        },
+        {
+            "category": "CLOTHING",
+            "subcategory": "Blazers",
+            "name": "Blazers Pink",
+            "description": "A detailed description of Blazers in Pink.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": false,
+                "equipment": false,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Pink",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/l2.jpg",
+                "src/assets/img/product/i2.jpg",
+                "src/assets/img/product/z-in3.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 38,
+            "slug": "blazers-pink",
+            "category_id": 3,
+            "subcategory_id": 6
+        },
+        {
+            "category": "CLOTHING",
+            "subcategory": "Blazers",
+            "name": "Blazers Red",
+            "description": "A detailed description of Blazers in Red.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": true,
+                "equipment": false,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Red",
+                    "count": 6
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/a1.jpg",
+                "src/assets/img/product/h2.jpg",
+                "src/assets/img/product/m1.jpg"
+            ],
+            "price": "160.00",
+            "brand": "BrandName",
+            "id": 39,
+            "slug": "blazers-red",
+            "category_id": 3,
+            "subcategory_id": 6
+        },
+        {
+            "category": "CLOTHING",
+            "subcategory": "Blazers",
+            "name": "Blazers Yellow",
+            "description": "A detailed description of Blazers in Yellow.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": true,
+                "equipment": true,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Yellow",
+                    "count": 3
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/z-in4.jpg",
+                "src/assets/img/product/h1.jpg",
+                "src/assets/img/product/c1.jpg"
+            ],
+            "price": "130.00",
+            "brand": "BrandName",
+            "id": 40,
+            "slug": "blazers-yellow",
+            "category_id": 3,
+            "subcategory_id": 6
+        },
+        {
+            "category": "CLOTHING",
+            "subcategory": "Coats & Jackets",
+            "name": "Coats & Jackets Black",
+            "description": "A detailed description of Coats & Jackets in Black.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": false,
+                "equipment": false,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Black",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/d2.jpg",
+                "src/assets/img/product/z-in2.jpg",
+                "src/assets/img/product/z-in1.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 41,
+            "slug": "coats-&-jackets-black",
+            "category_id": 3,
+            "subcategory_id": 13
+        },
+        {
+            "category": "CLOTHING",
+            "subcategory": "Coats & Jackets",
+            "name": "Coats & Jackets Blue",
+            "description": "A detailed description of Coats & Jackets in Blue.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": false,
+                "equipment": false,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Blue",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/z-in5.jpg",
+                "src/assets/img/product/b2.jpg",
+                "src/assets/img/product/k2.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 42,
+            "slug": "coats-&-jackets-blue",
+            "category_id": 3,
+            "subcategory_id": 13
+        },
+        {
+            "category": "CLOTHING",
+            "subcategory": "Coats & Jackets",
+            "name": "Coats & Jackets Brown",
+            "description": "A detailed description of Coats & Jackets in Brown.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": false,
+                "equipment": true,
+                "jewellery": false
+            },
+            "colors": [
+                {
+                    "name": "Brown",
+                    "count": 3
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/z-in4.jpg",
+                "src/assets/img/product/d1.jpg",
+                "src/assets/img/product/a1.jpg"
+            ],
+            "price": "130.00",
+            "brand": "BrandName",
+            "id": 43,
+            "slug": "coats-&-jackets-brown",
+            "category_id": 3,
+            "subcategory_id": 13
+        },
+        {
+            "category": "CLOTHING",
+            "subcategory": "Coats & Jackets",
+            "name": "Coats & Jackets Green",
+            "description": "A detailed description of Coats & Jackets in Green.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": true,
+                "equipment": false,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Green",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/l2.jpg",
+                "src/assets/img/product/g1.jpg",
+                "src/assets/img/product/h2.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 44,
+            "slug": "coats-&-jackets-green",
+            "category_id": 3,
+            "subcategory_id": 13
+        },
+        {
+            "category": "CLOTHING",
+            "subcategory": "Coats & Jackets",
+            "name": "Coats & Jackets Orange",
+            "description": "A detailed description of Coats & Jackets in Orange.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": true,
+                "equipment": true,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Orange",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/b2.jpg",
+                "src/assets/img/product/cart-1.jpg",
+                "src/assets/img/product/k2.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 45,
+            "slug": "coats-&-jackets-orange",
+            "category_id": 3,
+            "subcategory_id": 13
+        },
+        {
+            "category": "CLOTHING",
+            "subcategory": "Coats & Jackets",
+            "name": "Coats & Jackets Pink",
+            "description": "A detailed description of Coats & Jackets in Pink.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": false,
+                "equipment": true,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Pink",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/l1.jpg",
+                "src/assets/img/product/cart-1.jpg",
+                "src/assets/img/product/e1.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 46,
+            "slug": "coats-&-jackets-pink",
+            "category_id": 3,
+            "subcategory_id": 13
+        },
+        {
+            "category": "CLOTHING",
+            "subcategory": "Coats & Jackets",
+            "name": "Coats & Jackets Red",
+            "description": "A detailed description of Coats & Jackets in Red.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": false,
+                "equipment": false,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Red",
+                    "count": 6
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/cart-1.jpg",
+                "src/assets/img/product/m1.jpg",
+                "src/assets/img/product/z-in3.jpg"
+            ],
+            "price": "160.00",
+            "brand": "BrandName",
+            "id": 47,
+            "slug": "coats-&-jackets-red",
+            "category_id": 3,
+            "subcategory_id": 13
+        },
+        {
+            "category": "CLOTHING",
+            "subcategory": "Coats & Jackets",
+            "name": "Coats & Jackets Yellow",
+            "description": "A detailed description of Coats & Jackets in Yellow.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": false,
+                "equipment": true,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Yellow",
+                    "count": 3
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/f2.jpg",
+                "src/assets/img/product/d2.jpg",
+                "src/assets/img/product/h1.jpg"
+            ],
+            "price": "130.00",
+            "brand": "BrandName",
+            "id": 48,
+            "slug": "coats-&-jackets-yellow",
+            "category_id": 3,
+            "subcategory_id": 13
+        },
+        {
+            "category": "CLOTHING",
+            "subcategory": "Jackets",
+            "name": "Jackets Black",
+            "description": "A detailed description of Jackets in Black.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": true,
+                "equipment": false,
+                "jewellery": false
+            },
+            "colors": [
+                {
+                    "name": "Black",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/m2.jpg",
+                "src/assets/img/product/z-in2.jpg",
+                "src/assets/img/product/i2.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 49,
+            "slug": "jackets-black",
+            "category_id": 3,
+            "subcategory_id": 1
+        },
+        {
+            "category": "CLOTHING",
+            "subcategory": "Jackets",
+            "name": "Jackets Blue",
+            "description": "A detailed description of Jackets in Blue.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": true,
+                "equipment": true,
+                "jewellery": false
+            },
+            "colors": [
+                {
+                    "name": "Blue",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/m2.jpg",
+                "src/assets/img/product/m1.jpg",
+                "src/assets/img/product/l2.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 50,
+            "slug": "jackets-blue",
+            "category_id": 3,
+            "subcategory_id": 1
+        },
+        {
+            "category": "CLOTHING",
+            "subcategory": "Jackets",
+            "name": "Jackets Brown",
+            "description": "A detailed description of Jackets in Brown.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": false,
+                "equipment": false,
+                "jewellery": false
+            },
+            "colors": [
+                {
+                    "name": "Brown",
+                    "count": 3
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/i1.jpg",
+                "src/assets/img/product/h2.jpg",
+                "src/assets/img/product/e2.jpg"
+            ],
+            "price": "130.00",
+            "brand": "BrandName",
+            "id": 51,
+            "slug": "jackets-brown",
+            "category_id": 3,
+            "subcategory_id": 1
+        },
+        {
+            "category": "CLOTHING",
+            "subcategory": "Jackets",
+            "name": "Jackets Green",
+            "description": "A detailed description of Jackets in Green.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": false,
+                "equipment": false,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Green",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/z-in3.jpg",
+                "src/assets/img/product/z-in2.jpg",
+                "src/assets/img/product/e1.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 52,
+            "slug": "jackets-green",
+            "category_id": 3,
+            "subcategory_id": 1
+        },
+        {
+            "category": "CLOTHING",
+            "subcategory": "Jackets",
+            "name": "Jackets Orange",
+            "description": "A detailed description of Jackets in Orange.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": true,
+                "equipment": false,
+                "jewellery": false
+            },
+            "colors": [
+                {
+                    "name": "Orange",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/z-in3.jpg",
+                "src/assets/img/product/e2.jpg",
+                "src/assets/img/product/z-in1.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 53,
+            "slug": "jackets-orange",
+            "category_id": 3,
+            "subcategory_id": 1
+        },
+        {
+            "category": "CLOTHING",
+            "subcategory": "Jackets",
+            "name": "Jackets Pink",
+            "description": "A detailed description of Jackets in Pink.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": false,
+                "equipment": true,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Pink",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/z-in5.jpg",
+                "src/assets/img/product/m1.jpg",
+                "src/assets/img/product/d2.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 54,
+            "slug": "jackets-pink",
+            "category_id": 3,
+            "subcategory_id": 1
+        },
+        {
+            "category": "CLOTHING",
+            "subcategory": "Jackets",
+            "name": "Jackets Red",
+            "description": "A detailed description of Jackets in Red.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": true,
+                "equipment": true,
+                "jewellery": false
+            },
+            "colors": [
+                {
+                    "name": "Red",
+                    "count": 6
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/cart-2.jpg",
+                "src/assets/img/product/z-in1.jpg",
+                "src/assets/img/product/b2.jpg"
+            ],
+            "price": "160.00",
+            "brand": "BrandName",
+            "id": 55,
+            "slug": "jackets-red",
+            "category_id": 3,
+            "subcategory_id": 1
+        },
+        {
+            "category": "CLOTHING",
+            "subcategory": "Jackets",
+            "name": "Jackets Yellow",
+            "description": "A detailed description of Jackets in Yellow.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": false,
+                "equipment": true,
+                "jewellery": false
+            },
+            "colors": [
+                {
+                    "name": "Yellow",
+                    "count": 3
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/z-in1.jpg",
+                "src/assets/img/product/z-in3.jpg",
+                "src/assets/img/product/f1.jpg"
+            ],
+            "price": "130.00",
+            "brand": "BrandName",
+            "id": 56,
+            "slug": "jackets-yellow",
+            "category_id": 3,
+            "subcategory_id": 1
+        },
+        {
+            "category": "CLOTHING",
+            "subcategory": "Raincoats",
+            "name": "Raincoats Black",
+            "description": "A detailed description of Raincoats in Black.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": false,
+                "equipment": false,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Black",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/h1.jpg",
+                "src/assets/img/product/g1.jpg",
+                "src/assets/img/product/k1.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 57,
+            "slug": "raincoats-black",
+            "category_id": 3,
+            "subcategory_id": 2
+        },
+        {
+            "category": "CLOTHING",
+            "subcategory": "Raincoats",
+            "name": "Raincoats Blue",
+            "description": "A detailed description of Raincoats in Blue.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": false,
+                "equipment": false,
+                "jewellery": false
+            },
+            "colors": [
+                {
+                    "name": "Blue",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/a1.jpg",
+                "src/assets/img/product/j2.jpg",
+                "src/assets/img/product/f2.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 58,
+            "slug": "raincoats-blue",
+            "category_id": 3,
+            "subcategory_id": 2
+        },
+        {
+            "category": "CLOTHING",
+            "subcategory": "Raincoats",
+            "name": "Raincoats Brown",
+            "description": "A detailed description of Raincoats in Brown.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": true,
+                "equipment": true,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Brown",
+                    "count": 3
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/z-in4.jpg",
+                "src/assets/img/product/j2.jpg",
+                "src/assets/img/product/i2.jpg"
+            ],
+            "price": "130.00",
+            "brand": "BrandName",
+            "id": 59,
+            "slug": "raincoats-brown",
+            "category_id": 3,
+            "subcategory_id": 2
+        },
+        {
+            "category": "CLOTHING",
+            "subcategory": "Raincoats",
+            "name": "Raincoats Green",
+            "description": "A detailed description of Raincoats in Green.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": false,
+                "equipment": true,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Green",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/c1.jpg",
+                "src/assets/img/product/a1.jpg",
+                "src/assets/img/product/g1.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 60,
+            "slug": "raincoats-green",
+            "category_id": 3,
+            "subcategory_id": 2
+        },
+        {
+            "category": "CLOTHING",
+            "subcategory": "Raincoats",
+            "name": "Raincoats Orange",
+            "description": "A detailed description of Raincoats in Orange.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": false,
+                "equipment": false,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Orange",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/g1.jpg",
+                "src/assets/img/product/a2.jpg",
+                "src/assets/img/product/j1.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 61,
+            "slug": "raincoats-orange",
+            "category_id": 3,
+            "subcategory_id": 2
+        },
+        {
+            "category": "CLOTHING",
+            "subcategory": "Raincoats",
+            "name": "Raincoats Pink",
+            "description": "A detailed description of Raincoats in Pink.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": false,
+                "equipment": false,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Pink",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/k2.jpg",
+                "src/assets/img/product/m1.jpg",
+                "src/assets/img/product/h1.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 62,
+            "slug": "raincoats-pink",
+            "category_id": 3,
+            "subcategory_id": 2
+        },
+        {
+            "category": "CLOTHING",
+            "subcategory": "Raincoats",
+            "name": "Raincoats Red",
+            "description": "A detailed description of Raincoats in Red.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": false,
+                "equipment": true,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Red",
+                    "count": 6
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/d2.jpg",
+                "src/assets/img/product/j2.jpg",
+                "src/assets/img/product/j1.jpg"
+            ],
+            "price": "160.00",
+            "brand": "BrandName",
+            "id": 63,
+            "slug": "raincoats-red",
+            "category_id": 3,
+            "subcategory_id": 2
+        },
+        {
+            "category": "CLOTHING",
+            "subcategory": "Raincoats",
+            "name": "Raincoats Yellow",
+            "description": "A detailed description of Raincoats in Yellow.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": false,
+                "equipment": true,
+                "jewellery": false
+            },
+            "colors": [
+                {
+                    "name": "Yellow",
+                    "count": 3
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/g1.jpg",
+                "src/assets/img/product/i1.jpg",
+                "src/assets/img/product/z-in4.jpg"
+            ],
+            "price": "130.00",
+            "brand": "BrandName",
+            "id": 64,
+            "slug": "raincoats-yellow",
+            "category_id": 3,
+            "subcategory_id": 2
+        },
+        {
+            "category": "LINGERIE",
+            "subcategory": "Briefs",
+            "name": "Briefs Black",
+            "description": "A detailed description of Briefs in Black.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": false,
+                "equipment": false,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Black",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/f2.jpg",
+                "src/assets/img/product/g1.jpg",
+                "src/assets/img/product/z-in1.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 65,
+            "slug": "briefs-black",
+            "category_id": 1,
+            "subcategory_id": 4
+        },
+        {
+            "category": "LINGERIE",
+            "subcategory": "Briefs",
+            "name": "Briefs Blue",
+            "description": "A detailed description of Briefs in Blue.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": false,
+                "equipment": true,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Blue",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/k2.jpg",
+                "src/assets/img/product/f1.jpg",
+                "src/assets/img/product/cart-2.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 66,
+            "slug": "briefs-blue",
+            "category_id": 1,
+            "subcategory_id": 4
+        },
+        {
+            "category": "LINGERIE",
+            "subcategory": "Briefs",
+            "name": "Briefs Brown",
+            "description": "A detailed description of Briefs in Brown.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": false,
+                "equipment": true,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Brown",
+                    "count": 3
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/cart-2.jpg",
+                "src/assets/img/product/g1.jpg",
+                "src/assets/img/product/z-in1.jpg"
+            ],
+            "price": "130.00",
+            "brand": "BrandName",
+            "id": 67,
+            "slug": "briefs-brown",
+            "category_id": 1,
+            "subcategory_id": 4
+        },
+        {
+            "category": "LINGERIE",
+            "subcategory": "Briefs",
+            "name": "Briefs Green",
+            "description": "A detailed description of Briefs in Green.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": true,
+                "equipment": false,
+                "jewellery": false
+            },
+            "colors": [
+                {
+                    "name": "Green",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/i2.jpg",
+                "src/assets/img/product/f1.jpg",
+                "src/assets/img/product/cart-2.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 68,
+            "slug": "briefs-green",
+            "category_id": 1,
+            "subcategory_id": 4
+        },
+        {
+            "category": "LINGERIE",
+            "subcategory": "Briefs",
+            "name": "Briefs Orange",
+            "description": "A detailed description of Briefs in Orange.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": true,
+                "equipment": true,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Orange",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/e2.jpg",
+                "src/assets/img/product/i2.jpg",
+                "src/assets/img/product/c2.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 69,
+            "slug": "briefs-orange",
+            "category_id": 1,
+            "subcategory_id": 4
+        },
+        {
+            "category": "LINGERIE",
+            "subcategory": "Briefs",
+            "name": "Briefs Pink",
+            "description": "A detailed description of Briefs in Pink.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": true,
+                "equipment": false,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Pink",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/h2.jpg",
+                "src/assets/img/product/d2.jpg",
+                "src/assets/img/product/d1.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 70,
+            "slug": "briefs-pink",
+            "category_id": 1,
+            "subcategory_id": 4
+        },
+        {
+            "category": "LINGERIE",
+            "subcategory": "Briefs",
+            "name": "Briefs Red",
+            "description": "A detailed description of Briefs in Red.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": false,
+                "equipment": true,
+                "jewellery": false
+            },
+            "colors": [
+                {
+                    "name": "Red",
+                    "count": 6
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/z-in1.jpg",
+                "src/assets/img/product/a1.jpg",
+                "src/assets/img/product/k2.jpg"
+            ],
+            "price": "160.00",
+            "brand": "BrandName",
+            "id": 71,
+            "slug": "briefs-red",
+            "category_id": 1,
+            "subcategory_id": 4
+        },
+        {
+            "category": "LINGERIE",
+            "subcategory": "Briefs",
+            "name": "Briefs Yellow",
+            "description": "A detailed description of Briefs in Yellow.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": true,
+                "equipment": false,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Yellow",
+                    "count": 3
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/m1.jpg",
+                "src/assets/img/product/g1.jpg",
+                "src/assets/img/product/z-in4.jpg"
+            ],
+            "price": "130.00",
+            "brand": "BrandName",
+            "id": 72,
+            "slug": "briefs-yellow",
+            "category_id": 1,
+            "subcategory_id": 4
+        },
+        {
+            "category": "LINGERIE",
+            "subcategory": "Cocktail",
+            "name": "Cocktail Black",
+            "description": "A detailed description of Cocktail in Black.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": true,
+                "equipment": false,
+                "jewellery": false
+            },
+            "colors": [
+                {
+                    "name": "Black",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/i1.jpg",
+                "src/assets/img/product/e2.jpg",
+                "src/assets/img/product/z-in2.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 73,
+            "slug": "cocktail-black",
+            "category_id": 1,
+            "subcategory_id": 16
+        },
+        {
+            "category": "LINGERIE",
+            "subcategory": "Cocktail",
+            "name": "Cocktail Blue",
+            "description": "A detailed description of Cocktail in Blue.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": true,
+                "equipment": false,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Blue",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/a2.jpg",
+                "src/assets/img/product/l1.jpg",
+                "src/assets/img/product/b2.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 74,
+            "slug": "cocktail-blue",
+            "category_id": 1,
+            "subcategory_id": 16
+        },
+        {
+            "category": "LINGERIE",
+            "subcategory": "Cocktail",
+            "name": "Cocktail Brown",
+            "description": "A detailed description of Cocktail in Brown.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": true,
+                "equipment": false,
+                "jewellery": false
+            },
+            "colors": [
+                {
+                    "name": "Brown",
+                    "count": 3
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/z-in4.jpg",
+                "src/assets/img/product/g1.jpg",
+                "src/assets/img/product/i2.jpg"
+            ],
+            "price": "130.00",
+            "brand": "BrandName",
+            "id": 75,
+            "slug": "cocktail-brown",
+            "category_id": 1,
+            "subcategory_id": 16
+        },
+        {
+            "category": "LINGERIE",
+            "subcategory": "Cocktail",
+            "name": "Cocktail Green",
+            "description": "A detailed description of Cocktail in Green.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": false,
+                "equipment": false,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Green",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/k1.jpg",
+                "src/assets/img/product/c1.jpg",
+                "src/assets/img/product/j1.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 76,
+            "slug": "cocktail-green",
+            "category_id": 1,
+            "subcategory_id": 16
+        },
+        {
+            "category": "LINGERIE",
+            "subcategory": "Cocktail",
+            "name": "Cocktail Orange",
+            "description": "A detailed description of Cocktail in Orange.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": true,
+                "equipment": false,
+                "jewellery": false
+            },
+            "colors": [
+                {
+                    "name": "Orange",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/d2.jpg",
+                "src/assets/img/product/l1.jpg",
+                "src/assets/img/product/z-in5.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 77,
+            "slug": "cocktail-orange",
+            "category_id": 1,
+            "subcategory_id": 16
+        },
+        {
+            "category": "LINGERIE",
+            "subcategory": "Cocktail",
+            "name": "Cocktail Pink",
+            "description": "A detailed description of Cocktail in Pink.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": true,
+                "equipment": true,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Pink",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/e1.jpg",
+                "src/assets/img/product/j2.jpg",
+                "src/assets/img/product/d1.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 78,
+            "slug": "cocktail-pink",
+            "category_id": 1,
+            "subcategory_id": 16
+        },
+        {
+            "category": "LINGERIE",
+            "subcategory": "Cocktail",
+            "name": "Cocktail Red",
+            "description": "A detailed description of Cocktail in Red.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": true,
+                "equipment": false,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Red",
+                    "count": 6
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/z-in4.jpg",
+                "src/assets/img/product/a2.jpg",
+                "src/assets/img/product/c2.jpg"
+            ],
+            "price": "160.00",
+            "brand": "BrandName",
+            "id": 79,
+            "slug": "cocktail-red",
+            "category_id": 1,
+            "subcategory_id": 16
+        },
+        {
+            "category": "LINGERIE",
+            "subcategory": "Cocktail",
+            "name": "Cocktail Yellow",
+            "description": "A detailed description of Cocktail in Yellow.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": false,
+                "equipment": true,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Yellow",
+                    "count": 3
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/e1.jpg",
+                "src/assets/img/product/a1.jpg",
+                "src/assets/img/product/h2.jpg"
+            ],
+            "price": "130.00",
+            "brand": "BrandName",
+            "id": 80,
+            "slug": "cocktail-yellow",
+            "category_id": 1,
+            "subcategory_id": 16
+        },
+        {
+            "category": "LINGERIE",
+            "subcategory": "Day",
+            "name": "Day Black",
+            "description": "A detailed description of Day in Black.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": true,
+                "equipment": true,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Black",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/b1.jpg",
+                "src/assets/img/product/g2.jpg",
+                "src/assets/img/product/b2.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 81,
+            "slug": "day-black",
+            "category_id": 1,
+            "subcategory_id": 12
+        },
+        {
+            "category": "LINGERIE",
+            "subcategory": "Day",
+            "name": "Day Blue",
+            "description": "A detailed description of Day in Blue.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": false,
+                "equipment": true,
+                "jewellery": false
+            },
+            "colors": [
+                {
+                    "name": "Blue",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/a2.jpg",
+                "src/assets/img/product/m2.jpg",
+                "src/assets/img/product/h1.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 82,
+            "slug": "day-blue",
+            "category_id": 1,
+            "subcategory_id": 12
+        },
+        {
+            "category": "LINGERIE",
+            "subcategory": "Day",
+            "name": "Day Brown",
+            "description": "A detailed description of Day in Brown.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": true,
+                "equipment": true,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Brown",
+                    "count": 3
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/a1.jpg",
+                "src/assets/img/product/b1.jpg",
+                "src/assets/img/product/j2.jpg"
+            ],
+            "price": "130.00",
+            "brand": "BrandName",
+            "id": 83,
+            "slug": "day-brown",
+            "category_id": 1,
+            "subcategory_id": 12
+        },
+        {
+            "category": "LINGERIE",
+            "subcategory": "Day",
+            "name": "Day Green",
+            "description": "A detailed description of Day in Green.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": true,
+                "equipment": false,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Green",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/m1.jpg",
+                "src/assets/img/product/cart-2.jpg",
+                "src/assets/img/product/j2.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 84,
+            "slug": "day-green",
+            "category_id": 1,
+            "subcategory_id": 12
+        },
+        {
+            "category": "LINGERIE",
+            "subcategory": "Day",
+            "name": "Day Orange",
+            "description": "A detailed description of Day in Orange.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": false,
+                "equipment": false,
+                "jewellery": false
+            },
+            "colors": [
+                {
+                    "name": "Orange",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/f2.jpg",
+                "src/assets/img/product/l2.jpg",
+                "src/assets/img/product/l1.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 85,
+            "slug": "day-orange",
+            "category_id": 1,
+            "subcategory_id": 12
+        },
+        {
+            "category": "LINGERIE",
+            "subcategory": "Day",
+            "name": "Day Pink",
+            "description": "A detailed description of Day in Pink.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": false,
+                "equipment": false,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Pink",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/l2.jpg",
+                "src/assets/img/product/h1.jpg",
+                "src/assets/img/product/c2.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 86,
+            "slug": "day-pink",
+            "category_id": 1,
+            "subcategory_id": 12
+        },
+        {
+            "category": "LINGERIE",
+            "subcategory": "Day",
+            "name": "Day Red",
+            "description": "A detailed description of Day in Red.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": true,
+                "equipment": true,
+                "jewellery": false
+            },
+            "colors": [
+                {
+                    "name": "Red",
+                    "count": 6
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/c2.jpg",
+                "src/assets/img/product/e1.jpg",
+                "src/assets/img/product/h1.jpg"
+            ],
+            "price": "160.00",
+            "brand": "BrandName",
+            "id": 87,
+            "slug": "day-red",
+            "category_id": 1,
+            "subcategory_id": 12
+        },
+        {
+            "category": "LINGERIE",
+            "subcategory": "Day",
+            "name": "Day Yellow",
+            "description": "A detailed description of Day in Yellow.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": true,
+                "equipment": false,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Yellow",
+                    "count": 3
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/m1.jpg",
+                "src/assets/img/product/cart-1.jpg",
+                "src/assets/img/product/cart-2.jpg"
+            ],
+            "price": "130.00",
+            "brand": "BrandName",
+            "id": 88,
+            "slug": "day-yellow",
+            "category_id": 1,
+            "subcategory_id": 12
+        },
+        {
+            "category": "LINGERIE",
+            "subcategory": "Evening",
+            "name": "Evening Black",
+            "description": "A detailed description of Evening in Black.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": false,
+                "equipment": true,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Black",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/m2.jpg",
+                "src/assets/img/product/k2.jpg",
+                "src/assets/img/product/b1.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 89,
+            "slug": "evening-black",
+            "category_id": 1,
+            "subcategory_id": 8
+        },
+        {
+            "category": "LINGERIE",
+            "subcategory": "Evening",
+            "name": "Evening Blue",
+            "description": "A detailed description of Evening in Blue.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": true,
+                "equipment": false,
+                "jewellery": false
+            },
+            "colors": [
+                {
+                    "name": "Blue",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/z-in5.jpg",
+                "src/assets/img/product/i2.jpg",
+                "src/assets/img/product/z-in3.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 90,
+            "slug": "evening-blue",
+            "category_id": 1,
+            "subcategory_id": 8
+        },
+        {
+            "category": "LINGERIE",
+            "subcategory": "Evening",
+            "name": "Evening Brown",
+            "description": "A detailed description of Evening in Brown.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": true,
+                "equipment": true,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Brown",
+                    "count": 3
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/m2.jpg",
+                "src/assets/img/product/g1.jpg",
+                "src/assets/img/product/f2.jpg"
+            ],
+            "price": "130.00",
+            "brand": "BrandName",
+            "id": 91,
+            "slug": "evening-brown",
+            "category_id": 1,
+            "subcategory_id": 8
+        },
+        {
+            "category": "LINGERIE",
+            "subcategory": "Evening",
+            "name": "Evening Green",
+            "description": "A detailed description of Evening in Green.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": true,
+                "equipment": false,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Green",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/f2.jpg",
+                "src/assets/img/product/cart-2.jpg",
+                "src/assets/img/product/d2.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 92,
+            "slug": "evening-green",
+            "category_id": 1,
+            "subcategory_id": 8
+        },
+        {
+            "category": "LINGERIE",
+            "subcategory": "Evening",
+            "name": "Evening Orange",
+            "description": "A detailed description of Evening in Orange.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": true,
+                "equipment": false,
+                "jewellery": false
+            },
+            "colors": [
+                {
+                    "name": "Orange",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/j2.jpg",
+                "src/assets/img/product/g1.jpg",
+                "src/assets/img/product/d2.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 93,
+            "slug": "evening-orange",
+            "category_id": 1,
+            "subcategory_id": 8
+        },
+        {
+            "category": "LINGERIE",
+            "subcategory": "Evening",
+            "name": "Evening Pink",
+            "description": "A detailed description of Evening in Pink.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": true,
+                "equipment": false,
+                "jewellery": false
+            },
+            "colors": [
+                {
+                    "name": "Pink",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/d2.jpg",
+                "src/assets/img/product/cart-2.jpg",
+                "src/assets/img/product/i2.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 94,
+            "slug": "evening-pink",
+            "category_id": 1,
+            "subcategory_id": 8
+        },
+        {
+            "category": "LINGERIE",
+            "subcategory": "Evening",
+            "name": "Evening Red",
+            "description": "A detailed description of Evening in Red.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": true,
+                "equipment": false,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Red",
+                    "count": 6
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/m1.jpg",
+                "src/assets/img/product/z-in3.jpg",
+                "src/assets/img/product/h2.jpg"
+            ],
+            "price": "160.00",
+            "brand": "BrandName",
+            "id": 95,
+            "slug": "evening-red",
+            "category_id": 1,
+            "subcategory_id": 8
+        },
+        {
+            "category": "LINGERIE",
+            "subcategory": "Evening",
+            "name": "Evening Yellow",
+            "description": "A detailed description of Evening in Yellow.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": false,
+                "equipment": true,
+                "jewellery": false
+            },
+            "colors": [
+                {
+                    "name": "Yellow",
+                    "count": 3
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/d2.jpg",
+                "src/assets/img/product/g1.jpg",
+                "src/assets/img/product/b1.jpg"
+            ],
+            "price": "130.00",
+            "brand": "BrandName",
+            "id": 96,
+            "slug": "evening-yellow",
+            "category_id": 1,
+            "subcategory_id": 8
+        },
+        {
+            "category": "LINGERIE",
+            "subcategory": "Sundresses",
+            "name": "Sundresses Black",
+            "description": "A detailed description of Sundresses in Black.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": false,
+                "equipment": false,
+                "jewellery": false
+            },
+            "colors": [
+                {
+                    "name": "Black",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/z-in4.jpg",
+                "src/assets/img/product/b2.jpg",
+                "src/assets/img/product/a1.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 97,
+            "slug": "sundresses-black",
+            "category_id": 1,
+            "subcategory_id": 9
+        },
+        {
+            "category": "LINGERIE",
+            "subcategory": "Sundresses",
+            "name": "Sundresses Blue",
+            "description": "A detailed description of Sundresses in Blue.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": true,
+                "equipment": true,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Blue",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/k2.jpg",
+                "src/assets/img/product/g2.jpg",
+                "src/assets/img/product/f2.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 98,
+            "slug": "sundresses-blue",
+            "category_id": 1,
+            "subcategory_id": 9
+        },
+        {
+            "category": "LINGERIE",
+            "subcategory": "Sundresses",
+            "name": "Sundresses Brown",
+            "description": "A detailed description of Sundresses in Brown.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": false,
+                "equipment": false,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Brown",
+                    "count": 3
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/d1.jpg",
+                "src/assets/img/product/z-in2.jpg",
+                "src/assets/img/product/h2.jpg"
+            ],
+            "price": "130.00",
+            "brand": "BrandName",
+            "id": 99,
+            "slug": "sundresses-brown",
+            "category_id": 1,
+            "subcategory_id": 9
+        },
+        {
+            "category": "LINGERIE",
+            "subcategory": "Sundresses",
+            "name": "Sundresses Green",
+            "description": "A detailed description of Sundresses in Green.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": false,
+                "equipment": true,
+                "jewellery": false
+            },
+            "colors": [
+                {
+                    "name": "Green",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/g1.jpg",
+                "src/assets/img/product/j1.jpg",
+                "src/assets/img/product/e2.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 100,
+            "slug": "sundresses-green",
+            "category_id": 1,
+            "subcategory_id": 9
+        },
+        {
+            "category": "LINGERIE",
+            "subcategory": "Sundresses",
+            "name": "Sundresses Orange",
+            "description": "A detailed description of Sundresses in Orange.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": true,
+                "equipment": false,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Orange",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/f2.jpg",
+                "src/assets/img/product/k2.jpg",
+                "src/assets/img/product/i2.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 101,
+            "slug": "sundresses-orange",
+            "category_id": 1,
+            "subcategory_id": 9
+        },
+        {
+            "category": "LINGERIE",
+            "subcategory": "Sundresses",
+            "name": "Sundresses Pink",
+            "description": "A detailed description of Sundresses in Pink.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": false,
+                "equipment": true,
+                "jewellery": false
+            },
+            "colors": [
+                {
+                    "name": "Pink",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/cart-1.jpg",
+                "src/assets/img/product/c2.jpg",
+                "src/assets/img/product/k1.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 102,
+            "slug": "sundresses-pink",
+            "category_id": 1,
+            "subcategory_id": 9
+        },
+        {
+            "category": "LINGERIE",
+            "subcategory": "Sundresses",
+            "name": "Sundresses Red",
+            "description": "A detailed description of Sundresses in Red.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": false,
+                "equipment": false,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Red",
+                    "count": 6
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/z-in3.jpg",
+                "src/assets/img/product/k2.jpg",
+                "src/assets/img/product/a1.jpg"
+            ],
+            "price": "160.00",
+            "brand": "BrandName",
+            "id": 103,
+            "slug": "sundresses-red",
+            "category_id": 1,
+            "subcategory_id": 9
+        },
+        {
+            "category": "LINGERIE",
+            "subcategory": "Sundresses",
+            "name": "Sundresses Yellow",
+            "description": "A detailed description of Sundresses in Yellow.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": true,
+                "equipment": false,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Yellow",
+                    "count": 3
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/d2.jpg",
+                "src/assets/img/product/cart-1.jpg",
+                "src/assets/img/product/d1.jpg"
+            ],
+            "price": "130.00",
+            "brand": "BrandName",
+            "id": 104,
+            "slug": "sundresses-yellow",
+            "category_id": 1,
+            "subcategory_id": 9
+        },
+        {
+            "category": "SHOES",
+            "subcategory": "Ankle Boots",
+            "name": "Ankle Boots Black",
+            "description": "A detailed description of Ankle Boots in Black.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": true,
+                "equipment": true,
+                "jewellery": false
+            },
+            "colors": [
+                {
+                    "name": "Black",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/m2.jpg",
+                "src/assets/img/product/l2.jpg",
+                "src/assets/img/product/a1.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 105,
+            "slug": "ankle-boots-black",
+            "category_id": 4,
+            "subcategory_id": 3
+        },
+        {
+            "category": "SHOES",
+            "subcategory": "Ankle Boots",
+            "name": "Ankle Boots Blue",
+            "description": "A detailed description of Ankle Boots in Blue.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": false,
+                "equipment": true,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Blue",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/d2.jpg",
+                "src/assets/img/product/b1.jpg",
+                "src/assets/img/product/h2.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 106,
+            "slug": "ankle-boots-blue",
+            "category_id": 4,
+            "subcategory_id": 3
+        },
+        {
+            "category": "SHOES",
+            "subcategory": "Ankle Boots",
+            "name": "Ankle Boots Brown",
+            "description": "A detailed description of Ankle Boots in Brown.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": true,
+                "equipment": false,
+                "jewellery": false
+            },
+            "colors": [
+                {
+                    "name": "Brown",
+                    "count": 3
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/z-in3.jpg",
+                "src/assets/img/product/cart-2.jpg",
+                "src/assets/img/product/b1.jpg"
+            ],
+            "price": "130.00",
+            "brand": "BrandName",
+            "id": 107,
+            "slug": "ankle-boots-brown",
+            "category_id": 4,
+            "subcategory_id": 3
+        },
+        {
+            "category": "SHOES",
+            "subcategory": "Ankle Boots",
+            "name": "Ankle Boots Green",
+            "description": "A detailed description of Ankle Boots in Green.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": true,
+                "equipment": true,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Green",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/i1.jpg",
+                "src/assets/img/product/f2.jpg",
+                "src/assets/img/product/i2.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 108,
+            "slug": "ankle-boots-green",
+            "category_id": 4,
+            "subcategory_id": 3
+        },
+        {
+            "category": "SHOES",
+            "subcategory": "Ankle Boots",
+            "name": "Ankle Boots Orange",
+            "description": "A detailed description of Ankle Boots in Orange.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": false,
+                "equipment": false,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Orange",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/z-in1.jpg",
+                "src/assets/img/product/z-in3.jpg",
+                "src/assets/img/product/g2.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 109,
+            "slug": "ankle-boots-orange",
+            "category_id": 4,
+            "subcategory_id": 3
+        },
+        {
+            "category": "SHOES",
+            "subcategory": "Ankle Boots",
+            "name": "Ankle Boots Pink",
+            "description": "A detailed description of Ankle Boots in Pink.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": false,
+                "equipment": false,
+                "jewellery": false
+            },
+            "colors": [
+                {
+                    "name": "Pink",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/g1.jpg",
+                "src/assets/img/product/cart-1.jpg",
+                "src/assets/img/product/cart-2.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 110,
+            "slug": "ankle-boots-pink",
+            "category_id": 4,
+            "subcategory_id": 3
+        },
+        {
+            "category": "SHOES",
+            "subcategory": "Ankle Boots",
+            "name": "Ankle Boots Red",
+            "description": "A detailed description of Ankle Boots in Red.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": true,
+                "equipment": true,
+                "jewellery": false
+            },
+            "colors": [
+                {
+                    "name": "Red",
+                    "count": 6
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/cart-2.jpg",
+                "src/assets/img/product/g2.jpg",
+                "src/assets/img/product/cart-1.jpg"
+            ],
+            "price": "160.00",
+            "brand": "BrandName",
+            "id": 111,
+            "slug": "ankle-boots-red",
+            "category_id": 4,
+            "subcategory_id": 3
+        },
+        {
+            "category": "SHOES",
+            "subcategory": "Ankle Boots",
+            "name": "Ankle Boots Yellow",
+            "description": "A detailed description of Ankle Boots in Yellow.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": false,
+                "equipment": true,
+                "jewellery": false
+            },
+            "colors": [
+                {
+                    "name": "Yellow",
+                    "count": 3
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/b2.jpg",
+                "src/assets/img/product/z-in5.jpg",
+                "src/assets/img/product/z-in1.jpg"
+            ],
+            "price": "130.00",
+            "brand": "BrandName",
+            "id": 112,
+            "slug": "ankle-boots-yellow",
+            "category_id": 4,
+            "subcategory_id": 3
+        },
+        {
+            "category": "SHOES",
+            "subcategory": "Clog Sandals",
+            "name": "Clog Sandals Black",
+            "description": "A detailed description of Clog Sandals in Black.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": false,
+                "equipment": true,
+                "jewellery": false
+            },
+            "colors": [
+                {
+                    "name": "Black",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/a2.jpg",
+                "src/assets/img/product/e2.jpg",
+                "src/assets/img/product/e1.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 113,
+            "slug": "clog-sandals-black",
+            "category_id": 4,
+            "subcategory_id": 14
+        },
+        {
+            "category": "SHOES",
+            "subcategory": "Clog Sandals",
+            "name": "Clog Sandals Blue",
+            "description": "A detailed description of Clog Sandals in Blue.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": true,
+                "equipment": true,
+                "jewellery": false
+            },
+            "colors": [
+                {
+                    "name": "Blue",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/z-in2.jpg",
+                "src/assets/img/product/cart-1.jpg",
+                "src/assets/img/product/f2.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 114,
+            "slug": "clog-sandals-blue",
+            "category_id": 4,
+            "subcategory_id": 14
+        },
+        {
+            "category": "SHOES",
+            "subcategory": "Clog Sandals",
+            "name": "Clog Sandals Brown",
+            "description": "A detailed description of Clog Sandals in Brown.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": true,
+                "equipment": true,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Brown",
+                    "count": 3
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/a2.jpg",
+                "src/assets/img/product/f1.jpg",
+                "src/assets/img/product/cart-2.jpg"
+            ],
+            "price": "130.00",
+            "brand": "BrandName",
+            "id": 115,
+            "slug": "clog-sandals-brown",
+            "category_id": 4,
+            "subcategory_id": 14
+        },
+        {
+            "category": "SHOES",
+            "subcategory": "Clog Sandals",
+            "name": "Clog Sandals Green",
+            "description": "A detailed description of Clog Sandals in Green.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": true,
+                "equipment": true,
+                "jewellery": false
+            },
+            "colors": [
+                {
+                    "name": "Green",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/d1.jpg",
+                "src/assets/img/product/e1.jpg",
+                "src/assets/img/product/h1.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 116,
+            "slug": "clog-sandals-green",
+            "category_id": 4,
+            "subcategory_id": 14
+        },
+        {
+            "category": "SHOES",
+            "subcategory": "Clog Sandals",
+            "name": "Clog Sandals Orange",
+            "description": "A detailed description of Clog Sandals in Orange.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": false,
+                "equipment": true,
+                "jewellery": false
+            },
+            "colors": [
+                {
+                    "name": "Orange",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/i1.jpg",
+                "src/assets/img/product/b1.jpg",
+                "src/assets/img/product/b2.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 117,
+            "slug": "clog-sandals-orange",
+            "category_id": 4,
+            "subcategory_id": 14
+        },
+        {
+            "category": "SHOES",
+            "subcategory": "Clog Sandals",
+            "name": "Clog Sandals Pink",
+            "description": "A detailed description of Clog Sandals in Pink.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": true,
+                "equipment": true,
+                "jewellery": false
+            },
+            "colors": [
+                {
+                    "name": "Pink",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/z-in3.jpg",
+                "src/assets/img/product/a1.jpg",
+                "src/assets/img/product/a2.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 118,
+            "slug": "clog-sandals-pink",
+            "category_id": 4,
+            "subcategory_id": 14
+        },
+        {
+            "category": "SHOES",
+            "subcategory": "Clog Sandals",
+            "name": "Clog Sandals Red",
+            "description": "A detailed description of Clog Sandals in Red.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": false,
+                "equipment": false,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Red",
+                    "count": 6
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/z-in4.jpg",
+                "src/assets/img/product/l1.jpg",
+                "src/assets/img/product/c2.jpg"
+            ],
+            "price": "160.00",
+            "brand": "BrandName",
+            "id": 119,
+            "slug": "clog-sandals-red",
+            "category_id": 4,
+            "subcategory_id": 14
+        },
+        {
+            "category": "SHOES",
+            "subcategory": "Clog Sandals",
+            "name": "Clog Sandals Yellow",
+            "description": "A detailed description of Clog Sandals in Yellow.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": false,
+                "equipment": false,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Yellow",
+                    "count": 3
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/z-in2.jpg",
+                "src/assets/img/product/c2.jpg",
+                "src/assets/img/product/z-in1.jpg"
+            ],
+            "price": "130.00",
+            "brand": "BrandName",
+            "id": 120,
+            "slug": "clog-sandals-yellow",
+            "category_id": 4,
+            "subcategory_id": 14
+        },
+        {
+            "category": "SHOES",
+            "subcategory": "Hats And Gloves",
+            "name": "Hats And Gloves Black",
+            "description": "A detailed description of Hats And Gloves in Black.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": false,
+                "equipment": false,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Black",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/c1.jpg",
+                "src/assets/img/product/d2.jpg",
+                "src/assets/img/product/b2.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 121,
+            "slug": "hats-and-gloves-black",
+            "category_id": 4,
+            "subcategory_id": 5
+        },
+        {
+            "category": "SHOES",
+            "subcategory": "Hats And Gloves",
+            "name": "Hats And Gloves Blue",
+            "description": "A detailed description of Hats And Gloves in Blue.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": true,
+                "equipment": false,
+                "jewellery": false
+            },
+            "colors": [
+                {
+                    "name": "Blue",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/z-in5.jpg",
+                "src/assets/img/product/d2.jpg",
+                "src/assets/img/product/cart-1.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 122,
+            "slug": "hats-and-gloves-blue",
+            "category_id": 4,
+            "subcategory_id": 5
+        },
+        {
+            "category": "SHOES",
+            "subcategory": "Hats And Gloves",
+            "name": "Hats And Gloves Brown",
+            "description": "A detailed description of Hats And Gloves in Brown.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": false,
+                "equipment": false,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Brown",
+                    "count": 3
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/g1.jpg",
+                "src/assets/img/product/cart-1.jpg",
+                "src/assets/img/product/z-in1.jpg"
+            ],
+            "price": "130.00",
+            "brand": "BrandName",
+            "id": 123,
+            "slug": "hats-and-gloves-brown",
+            "category_id": 4,
+            "subcategory_id": 5
+        },
+        {
+            "category": "SHOES",
+            "subcategory": "Hats And Gloves",
+            "name": "Hats And Gloves Green",
+            "description": "A detailed description of Hats And Gloves in Green.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": false,
+                "equipment": true,
+                "jewellery": false
+            },
+            "colors": [
+                {
+                    "name": "Green",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/a2.jpg",
+                "src/assets/img/product/j1.jpg",
+                "src/assets/img/product/z-in3.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 124,
+            "slug": "hats-and-gloves-green",
+            "category_id": 4,
+            "subcategory_id": 5
+        },
+        {
+            "category": "SHOES",
+            "subcategory": "Hats And Gloves",
+            "name": "Hats And Gloves Orange",
+            "description": "A detailed description of Hats And Gloves in Orange.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": false,
+                "equipment": false,
+                "jewellery": false
+            },
+            "colors": [
+                {
+                    "name": "Orange",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/l2.jpg",
+                "src/assets/img/product/d2.jpg",
+                "src/assets/img/product/m1.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 125,
+            "slug": "hats-and-gloves-orange",
+            "category_id": 4,
+            "subcategory_id": 5
+        },
+        {
+            "category": "SHOES",
+            "subcategory": "Hats And Gloves",
+            "name": "Hats And Gloves Pink",
+            "description": "A detailed description of Hats And Gloves in Pink.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": false,
+                "equipment": false,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Pink",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/z-in3.jpg",
+                "src/assets/img/product/l2.jpg",
+                "src/assets/img/product/cart-2.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 126,
+            "slug": "hats-and-gloves-pink",
+            "category_id": 4,
+            "subcategory_id": 5
+        },
+        {
+            "category": "SHOES",
+            "subcategory": "Hats And Gloves",
+            "name": "Hats And Gloves Red",
+            "description": "A detailed description of Hats And Gloves in Red.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": true,
+                "equipment": false,
+                "jewellery": false
+            },
+            "colors": [
+                {
+                    "name": "Red",
+                    "count": 6
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/k1.jpg",
+                "src/assets/img/product/cart-2.jpg",
+                "src/assets/img/product/i1.jpg"
+            ],
+            "price": "160.00",
+            "brand": "BrandName",
+            "id": 127,
+            "slug": "hats-and-gloves-red",
+            "category_id": 4,
+            "subcategory_id": 5
+        },
+        {
+            "category": "SHOES",
+            "subcategory": "Hats And Gloves",
+            "name": "Hats And Gloves Yellow",
+            "description": "A detailed description of Hats And Gloves in Yellow.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": false,
+                "equipment": true,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Yellow",
+                    "count": 3
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/k1.jpg",
+                "src/assets/img/product/cart-2.jpg",
+                "src/assets/img/product/c2.jpg"
+            ],
+            "price": "130.00",
+            "brand": "BrandName",
+            "id": 128,
+            "slug": "hats-and-gloves-yellow",
+            "category_id": 4,
+            "subcategory_id": 5
+        },
+        {
+            "category": "SHOES",
+            "subcategory": "Footwear",
+            "name": "Footwear Black",
+            "description": "A detailed description of Footwear in Black.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": false,
+                "equipment": false,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Black",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/i1.jpg",
+                "src/assets/img/product/e2.jpg",
+                "src/assets/img/product/cart-1.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 129,
+            "slug": "footwear-black",
+            "category_id": 4,
+            "subcategory_id": 7
+        },
+        {
+            "category": "SHOES",
+            "subcategory": "Footwear",
+            "name": "Footwear Blue",
+            "description": "A detailed description of Footwear in Blue.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": true,
+                "equipment": true,
+                "jewellery": false
+            },
+            "colors": [
+                {
+                    "name": "Blue",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/m1.jpg",
+                "src/assets/img/product/g1.jpg",
+                "src/assets/img/product/z-in4.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 130,
+            "slug": "footwear-blue",
+            "category_id": 4,
+            "subcategory_id": 7
+        },
+        {
+            "category": "SHOES",
+            "subcategory": "Footwear",
+            "name": "Footwear Brown",
+            "description": "A detailed description of Footwear in Brown.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": false,
+                "equipment": false,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Brown",
+                    "count": 3
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/j2.jpg",
+                "src/assets/img/product/z-in2.jpg",
+                "src/assets/img/product/z-in1.jpg"
+            ],
+            "price": "130.00",
+            "brand": "BrandName",
+            "id": 131,
+            "slug": "footwear-brown",
+            "category_id": 4,
+            "subcategory_id": 7
+        },
+        {
+            "category": "SHOES",
+            "subcategory": "Footwear",
+            "name": "Footwear Green",
+            "description": "A detailed description of Footwear in Green.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": false,
+                "equipment": false,
+                "jewellery": false
+            },
+            "colors": [
+                {
+                    "name": "Green",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/f1.jpg",
+                "src/assets/img/product/e1.jpg",
+                "src/assets/img/product/b2.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 132,
+            "slug": "footwear-green",
+            "category_id": 4,
+            "subcategory_id": 7
+        },
+        {
+            "category": "SHOES",
+            "subcategory": "Footwear",
+            "name": "Footwear Orange",
+            "description": "A detailed description of Footwear in Orange.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": false,
+                "equipment": true,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Orange",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/d2.jpg",
+                "src/assets/img/product/b2.jpg",
+                "src/assets/img/product/c1.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 133,
+            "slug": "footwear-orange",
+            "category_id": 4,
+            "subcategory_id": 7
+        },
+        {
+            "category": "SHOES",
+            "subcategory": "Footwear",
+            "name": "Footwear Pink",
+            "description": "A detailed description of Footwear in Pink.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": false,
+                "equipment": true,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Pink",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/f2.jpg",
+                "src/assets/img/product/c2.jpg",
+                "src/assets/img/product/h2.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 134,
+            "slug": "footwear-pink",
+            "category_id": 4,
+            "subcategory_id": 7
+        },
+        {
+            "category": "SHOES",
+            "subcategory": "Footwear",
+            "name": "Footwear Red",
+            "description": "A detailed description of Footwear in Red.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": false,
+                "equipment": false,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Red",
+                    "count": 6
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/a2.jpg",
+                "src/assets/img/product/a1.jpg",
+                "src/assets/img/product/z-in1.jpg"
+            ],
+            "price": "160.00",
+            "brand": "BrandName",
+            "id": 135,
+            "slug": "footwear-red",
+            "category_id": 4,
+            "subcategory_id": 7
+        },
+        {
+            "category": "SHOES",
+            "subcategory": "Footwear",
+            "name": "Footwear Yellow",
+            "description": "A detailed description of Footwear in Yellow.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": false,
+                "equipment": false,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Yellow",
+                    "count": 3
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/j1.jpg",
+                "src/assets/img/product/g1.jpg",
+                "src/assets/img/product/z-in5.jpg"
+            ],
+            "price": "130.00",
+            "brand": "BrandName",
+            "id": 136,
+            "slug": "footwear-yellow",
+            "category_id": 4,
+            "subcategory_id": 7
+        },
+        {
+            "category": "SHOES",
+            "subcategory": "Scarves",
+            "name": "Scarves Black",
+            "description": "A detailed description of Scarves in Black.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": false,
+                "equipment": true,
+                "jewellery": false
+            },
+            "colors": [
+                {
+                    "name": "Black",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/h2.jpg",
+                "src/assets/img/product/m2.jpg",
+                "src/assets/img/product/d2.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 137,
+            "slug": "scarves-black",
+            "category_id": 4,
+            "subcategory_id": 11
+        },
+        {
+            "category": "SHOES",
+            "subcategory": "Scarves",
+            "name": "Scarves Blue",
+            "description": "A detailed description of Scarves in Blue.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": true,
+                "equipment": false,
+                "jewellery": false
+            },
+            "colors": [
+                {
+                    "name": "Blue",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/a2.jpg",
+                "src/assets/img/product/z-in4.jpg",
+                "src/assets/img/product/h1.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 138,
+            "slug": "scarves-blue",
+            "category_id": 4,
+            "subcategory_id": 11
+        },
+        {
+            "category": "SHOES",
+            "subcategory": "Scarves",
+            "name": "Scarves Brown",
+            "description": "A detailed description of Scarves in Brown.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": true,
+                "equipment": true,
+                "jewellery": false
+            },
+            "colors": [
+                {
+                    "name": "Brown",
+                    "count": 3
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/j1.jpg",
+                "src/assets/img/product/z-in1.jpg",
+                "src/assets/img/product/z-in5.jpg"
+            ],
+            "price": "130.00",
+            "brand": "BrandName",
+            "id": 139,
+            "slug": "scarves-brown",
+            "category_id": 4,
+            "subcategory_id": 11
+        },
+        {
+            "category": "SHOES",
+            "subcategory": "Scarves",
+            "name": "Scarves Green",
+            "description": "A detailed description of Scarves in Green.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": true,
+                "equipment": true,
+                "jewellery": false
+            },
+            "colors": [
+                {
+                    "name": "Green",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/j1.jpg",
+                "src/assets/img/product/cart-1.jpg",
+                "src/assets/img/product/k1.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 140,
+            "slug": "scarves-green",
+            "category_id": 4,
+            "subcategory_id": 11
+        },
+        {
+            "category": "SHOES",
+            "subcategory": "Scarves",
+            "name": "Scarves Orange",
+            "description": "A detailed description of Scarves in Orange.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": false,
+                "equipment": false,
+                "jewellery": false
+            },
+            "colors": [
+                {
+                    "name": "Orange",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/h1.jpg",
+                "src/assets/img/product/e2.jpg",
+                "src/assets/img/product/i2.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 141,
+            "slug": "scarves-orange",
+            "category_id": 4,
+            "subcategory_id": 11
+        },
+        {
+            "category": "SHOES",
+            "subcategory": "Scarves",
+            "name": "Scarves Pink",
+            "description": "A detailed description of Scarves in Pink.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": false,
+                "equipment": false,
+                "jewellery": false
+            },
+            "colors": [
+                {
+                    "name": "Pink",
+                    "count": 2
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/a1.jpg",
+                "src/assets/img/product/b1.jpg",
+                "src/assets/img/product/cart-2.jpg"
+            ],
+            "price": "120.00",
+            "brand": "BrandName",
+            "id": 142,
+            "slug": "scarves-pink",
+            "category_id": 4,
+            "subcategory_id": 11
+        },
+        {
+            "category": "SHOES",
+            "subcategory": "Scarves",
+            "name": "Scarves Red",
+            "description": "A detailed description of Scarves in Red.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": true,
+                "equipment": true,
+                "jewellery": true
+            },
+            "colors": [
+                {
+                    "name": "Red",
+                    "count": 6
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/e2.jpg",
+                "src/assets/img/product/a1.jpg",
+                "src/assets/img/product/k2.jpg"
+            ],
+            "price": "160.00",
+            "brand": "BrandName",
+            "id": 143,
+            "slug": "scarves-red",
+            "category_id": 4,
+            "subcategory_id": 11
+        },
+        {
+            "category": "SHOES",
+            "subcategory": "Scarves",
+            "name": "Scarves Yellow",
+            "description": "A detailed description of Scarves in Yellow.",
+            "features": {
+                "latest": true,
+                "bestseller": true,
+                "sale": true,
+                "clothing": true,
+                "equipment": false,
+                "jewellery": false
+            },
+            "colors": [
+                {
+                    "name": "Yellow",
+                    "count": 3
+                }
+            ],
+            "photos": [
+                "src/assets/img/product/i1.jpg",
+                "src/assets/img/product/k2.jpg",
+                "src/assets/img/product/z-in3.jpg"
+            ],
+            "price": "130.00",
+            "brand": "BrandName",
+            "id": 144,
+            "slug": "scarves-yellow",
+            "category_id": 4,
+            "subcategory_id": 11
+        }
+    ],
+    "blog_posts": [
+        {
+            "title": "THE SAMPLE HEADING TITLE",
+            "author": "admin",
+            "post_date": "Apr 01, 2014",
+            "num_comments": 4,
+            "description": "Short description of the blog post...",
+            "content": "Long content section 1 of blog post 1... Long content section 2 of blog post 1... Long content section 3 of blog post 1... Long content section 4 of blog post 1... Long content section 5 of blog post 1...",
+            "image": "src/assets/img/blog1.jpg"
+        },
+        {
+            "title": "Blog Post Title 2",
+            "author": "Author 2",
+            "post_date": "2024-01-02",
+            "num_comments": 2,
+            "description": "Short description of blog post 2...",
+            "content": "Long content section 1 of blog post 2... Long content section 2 of blog post 2... Long content section 3 of blog post 2... Long content section 4 of blog post 2... Long content section 5 of blog post 2...",
+            "image": "src/assets/img/blog2.jpg"
+        },
+        {
+            "title": "Blog Post Title 3",
+            "author": "Author 3",
+            "post_date": "2024-01-03",
+            "num_comments": 3,
+            "description": "Short description of blog post 3...",
+            "content": "Long content section 1 of blog post 3... Long content section 2 of blog post 3... Long content section 3 of blog post 3... Long content section 4 of blog post 3... Long content section 5 of blog post 3...",
+            "image": "src/assets/img/blog3.jpg"
+        },
+        {
+            "title": "Blog Post Title 4",
+            "author": "Author 4",
+            "post_date": "2024-01-04",
+            "num_comments": 4,
+            "description": "Short description of blog post 4...",
+            "content": "Long content section 1 of blog post 4... Long content section 2 of blog post 4... Long content section 3 of blog post 4... Long content section 4 of blog post 4... Long content section 5 of blog post 4...",
+            "image": "src/assets/img/blog1.jpg"
+        },
+        {
+            "title": "Blog Post Title 5",
+            "author": "Author 5",
+            "post_date": "2024-01-05",
+            "num_comments": 5,
+            "description": "Short description of blog post 5...",
+            "content": "Long content section 1 of blog post 5... Long content section 2 of blog post 5... Long content section 3 of blog post 5... Long content section 4 of blog post 5... Long content section 5 of blog post 5...",
+            "image": "src/assets/img/blog2.jpg"
+        },
+        {
+            "title": "Blog Post Title 6",
+            "author": "Author 6",
+            "post_date": "2024-01-06",
+            "num_comments": 6,
+            "description": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatem vel eius",
+            "content": "Long content section 1 of blog post 6... Long content section 2 of blog post 6... Long content section 3 of blog post 6... Long content section 4 of blog post 6... Long content section 5 of blog post 6...",
+            "image": "src/assets/img/blog3.jpg"
+        },
+        {
+            "title": "Blog Post Title 7",
+            "author": "Author 7",
+            "post_date": "2024-01-07",
+            "num_comments": 7,
+            "description": "Short description of blog post 7...",
+            "content": "Long content section 1 of blog post 7... Long content section 2 of blog post 7... Long content section 3 of blog post 7... Long content section 4 of blog post 7... Long content section 5 of blog post 7...Long content section 2 of blog post 7... Long content section 2 of blog post 7... Long content section 2 of blog post 7... Long content section 2 of blog post 7... Long content section 2 of blog post 7... Long content section 2 of blog post 7... Long content section 2 of blog post 7... Long content section 2 of blog post 7... Long content section 2 of blog post 7... Long content section 2 of blog post 7... Long content section 2 of blog post 7... Long content section 2 of blog post 7... ",
+            "image": "src/assets/img/blog1.jpg"
+        }
+    ],
+    "categories": [
+        {
+            "name": "LINGERIE",
+            "id": 1
+        },
+        {
+            "name": "BAGS",
+            "id": 2
+        },
+        {
+            "name": "CLOTHING",
+            "id": 3
+        },
+        {
+            "name": "SHOES",
+            "id": 4
+        }
+    ],
+    "subcategories": [
+        {
+            "name": "Jackets",
+            "id": 1,
+            "category_id": 3
+        },
+        {
+            "name": "Raincoats",
+            "id": 2,
+            "category_id": 3
+        },
+        {
+            "name": "Ankle Boots",
+            "id": 3,
+            "category_id": 4
+        },
+        {
+            "name": "Briefs",
+            "id": 4,
+            "category_id": 1
+        },
+        {
+            "name": "Hats And Gloves",
+            "id": 5,
+            "category_id": 4
+        },
+        {
+            "name": "Blazers",
+            "id": 6,
+            "category_id": 3
+        },
+        {
+            "name": "Footwear",
+            "id": 7,
+            "category_id": 4
+        },
+        {
+            "name": "Evening",
+            "id": 8,
+            "category_id": 1
+        },
+        {
+            "name": "Sundresses",
+            "id": 9,
+            "category_id": 1
+        },
+        {
+            "name": "Booties Bags",
+            "id": 10,
+            "category_id": 2
+        },
+        {
+            "name": "Scarves",
+            "id": 11,
+            "category_id": 4
+        },
+        {
+            "name": "Day",
+            "id": 12,
+            "category_id": 1
+        },
+        {
+            "name": "Coats & Jackets",
+            "id": 13,
+            "category_id": 3
+        },
+        {
+            "name": "Clog Sandals",
+            "id": 14,
+            "category_id": 4
+        },
+        {
+            "name": "Shoes",
+            "id": 15,
+            "category_id": 2
+        },
+        {
+            "name": "Cocktail",
+            "id": 16,
+            "category_id": 1
+        }
+    ],
+    "contact": [
+        {
+            "phone": "0 (1234) 567 890",
+            "mail": "merve_inform@themes.co",
+            "address": "34 Parer Place via Musk Avenue Kelvin Grove, QLD, 4059 Istanbul"
+        } 
+    ],
+    "client":[
+        {
+            "image":"src/assets/img/client1.jpg"
+        },
+        {
+            "image":"src/assets/img/client2.jpg"
+        },
+        {
+            "image":"src/assets/img/client3.jpg"
+        },
+        {
+            "image":"src/assets/img/client4.jpg"
+        },
+        {
+            "image":"src/assets/img/client5.jpg"
+        },
+        {
+            "image":"src/assets/img/client6.jpg"
+        },
+        {
+            "image":"src/assets/img/client1.jpg"
+        },
+        {
+            "image":"src/assets/img/client2.jpg"
+        },
+        {
+            "image":"src/assets/img/client3.jpg"
+        },
+        {
+            "image":"src/assets/img/client4.jpg"
+        },
+        {
+            "image":"src/assets/img/client5.jpg"
+        },
+        {
+            "image":"src/assets/img/client6.jpg"
+        }
+    ]
+}
